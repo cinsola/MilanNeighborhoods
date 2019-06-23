@@ -1,0 +1,1120 @@
+Address Recognizer;Cap;Address;Neighborhood;Sell Price;Rent Price
+piazza-piemonte;20145;piazza piemonte;SACCO;5388;17
+via-ravizza;20149;via ravizza;SACCO;0;0
+via-marghera;20146;via marghera;SACCO;0;0
+via-dei-gracchi;20146;via dei gracchi;SACCO;0;0
+milano-lombardia;20149;milano lombardia;SACCO;0;0
+via-luigi-sacco;20146;via luigi sacco;SACCO;0;0
+via-sacco;20146;via sacco;SACCO;0;0
+via-cuneo;20149;via cuneo;SACCO;0;0
+piazza-riccardo-wagner;20149;piazza riccardo wagner;SACCO;0;0
+via-vittoria-colonna;20149;via vittoria colonna;SACCO;5388;17
+via-raffaello-sanzio;20149;via raffaello sanzio;SACCO;5388;17
+viale-ergisto-bezzi;20146;viale ergisto bezzi;SACCO;4044;13.26
+via-giorgio-washington;20146;via giorgio washington;SACCO;5388;17
+via-antonio-cecchi;20121;via antonio cecchi;SACCO;0;0
+via-michelangelo-buonarroti;20149;via michelangelo buonarroti;SACCO;5388;17
+piazza-de-angeli;20100;piazza de angeli;SACCO;0;0
+via-parmigianino;20146;via parmigianino;SACCO;0;0
+via-federico-faruffini;20149;via federico faruffini;SACCO;0;0
+viale-rubicone;20161;viale rubicone;COMASINA;0;0
+via-ippocrate;20161;via ippocrate;COMASINA;0;0
+via-teano;20161;via teano;COMASINA;0;0
+via-comasina;20161;via comasina;COMASINA;2532;7.38
+via-gerolamo-fornì;20161;via gerolamo fornì;COMASINA;0;0
+via-privata-polonia;20157;via privata polonia;STEPHENSON;1517;8.82
+via-privata-venezia-giulia;20157;via privata venezia giulia;STEPHENSON;2428;8.69
+via-cremosano;20148;via cremosano;QT 8;0;0
+via-giovanni-cimabue;20148;via giovanni cimabue;QT 8;2960;9.88
+viale-achille-papa;20149;viale achille papa;QT 8;2463;8.25
+piazza-cordusio;20123;piazza cordusio;ORTOMERCATO;10367;33.84
+via-manfredo-camperio;20123;via manfredo camperio;ORTOMERCATO;10367;33.84
+via-dante;20121;via dante;ORTOMERCATO;9309;29.17
+piazza-pio-xi;20123;piazza pio xi;ORTOMERCATO;0;0
+via-spadari;20123;via spadari;ORTOMERCATO;0;0
+via-meravigli;20123;via meravigli;ORTOMERCATO;0;0
+via-mengoni;20121;via mengoni;ORTOMERCATO;0;0
+via-san-giovanni-sul-muro;20121;via san giovanni sul muro;ORTOMERCATO;8250;24.5
+via-rovello;20121;via rovello;ORTOMERCATO;9900;31.39
+via-moneta-a;20123;via moneta a;ORTOMERCATO;0;0
+via-san-maurilio;20123;via san maurilio;ORTOMERCATO;8250;24.5
+via-santa-marta;20123;via santa marta;ORTOMERCATO;8250;24.5
+via-orefici;20123;via orefici;ORTOMERCATO;0;0
+via-torino;20123;via torino;ORTOMERCATO;0;0
+via-broletto;20121;via broletto;ORTOMERCATO;0;0
+via-bernardino-luini;20123;via bernardino luini;ORTOMERCATO;0;0
+piazza-dei-mercanti;20123;piazza dei mercanti;ORTOMERCATO;10367;33.84
+via-santa-maria-alla-porta-a;20123;via santa maria alla porta a;ORTOMERCATO;0;0
+corso-magenta;20123;corso magenta;ORTOMERCATO;;
+via-tommaso-grossi;20121;via tommaso grossi;ORTOMERCATO;10367;33.84
+piazza-mercanti;20123;piazza mercanti;ORTOMERCATO;0;0
+via-cusani;20121;via cusani;ORTOMERCATO;0;0
+via-cesare-cantù;20123;via cesare cantù;ORTOMERCATO;0;0
+via-silvio-pellico;20121;via silvio pellico;ORTOMERCATO;10367;33.84
+via-brisa;20123;via brisa;ORTOMERCATO;0;0
+piazza-degli-affari;20123;piazza degli affari;ORTOMERCATO;0;0
+piazza-del-duomo;20121;piazza del duomo;ORTOMERCATO;10367;33.84
+piazza-mentana;20123;piazza mentana;ORTOMERCATO;0;0
+piazza-castello;20121;piazza castello;ORTOMERCATO;8609;25.51
+via-nerino;20123;via nerino;ORTOMERCATO;0;0
+piazza-borromeo;20123;piazza borromeo;ORTOMERCATO;0;0
+via-giuseppe-mazzini;20123;via giuseppe mazzini;ORTOMERCATO;0;0
+via-clerici;20121;via clerici;ORTOMERCATO;;
+via-filodrammatici;20121;via filodrammatici;ORTOMERCATO;;
+via-speronari;20123;via speronari;ORTOMERCATO;10367;33.84
+galleria-vittorio-emanuele-ii;20121;galleria vittorio emanuele ii;ORTOMERCATO;10367;33.84
+via-circo;20123;via circo;ORTOMERCATO;8250;24.5
+via-medici;20123;via medici;ORTOMERCATO;8250;24.5
+piazza-della-scala;20121;piazza della scala;ORTOMERCATO;;
+via-dogana;20123;via dogana;ORTOMERCATO;10367;33.84
+via-giorgio-giulini;20123;via giorgio giulini;ORTOMERCATO;9309;29.17
+via-ponte-vetero;20121;via ponte vetero;ORTOMERCATO;0;0
+via-giacomo-puccini;20121;via giacomo puccini;ORTOMERCATO;8250;24.5
+via-porlezza;20123;via porlezza;ORTOMERCATO;0;0
+via-guglielmo-marconi;20122;via guglielmo marconi;ORTOMERCATO;0;0
+via-valpetrosa;20123;via valpetrosa;ORTOMERCATO;8250;24.5
+piazza-duomo;20121;piazza duomo;ORTOMERCATO;0;0
+piazza-san-fedele;20122;piazza san fedele;ORTOMERCATO;0;0
+via-gallarate;20156;via gallarate;MAGGIORE - MUSOCCO;2344;7.75
+via-giorgio-stephenson;20157;via giorgio stephenson;MAGGIORE - MUSOCCO;0;0
+viale-certosa;20156;viale certosa;MAGGIORE - MUSOCCO;2463;8.25
+via-privata-cefalù;20151;via privata cefalù;MAGGIORE - MUSOCCO;0;0
+via-sapri;20156;via sapri;MAGGIORE - MUSOCCO;0;0
+via-gadames;20151;via gadames;MAGGIORE - MUSOCCO;0;0
+via-barnaba-oriani;20156;via barnaba oriani;MAGGIORE - MUSOCCO;2463;8.25
+via-gentile;20157;via gentile;MAGGIORE - MUSOCCO;0;0
+via-quarenghi;20151;via quarenghi;MAGGIORE - MUSOCCO;0;0
+via-padova;20127;via padova;PARCO LAMBRO - CIMIANO;0;0
+via-benadir;20132;via benadir;PARCO LAMBRO - CIMIANO;0;0
+via-meucci;20128;via meucci;PARCO LAMBRO - CIMIANO;0;0
+via-feltre;20134;via feltre;PARCO LAMBRO - CIMIANO;0;0
+via-palmanova;20132;via palmanova;PARCO LAMBRO - CIMIANO;2600;8.08
+via-feltre-b;20132;via feltre b;PARCO LAMBRO - CIMIANO;0;0
+via-cesana;20132;via cesana;PARCO LAMBRO - CIMIANO;0;0
+via-traù;20159;via traù;PARCO LAMBRO - CIMIANO;0;0
+via-privata-meucci;20128;via privata meucci;PARCO LAMBRO - CIMIANO;0;0
+via-olgettina;20132;via olgettina;PARCO LAMBRO - CIMIANO;0;0
+via-oropa;20132;via oropa;PARCO LAMBRO - CIMIANO;0;0
+via-mestre;20123;via mestre;PARCO LAMBRO - CIMIANO;0;0
+via-monfalcone;20132;via monfalcone;PARCO LAMBRO - CIMIANO;0;0
+via-elio-adriano;20128;via elio adriano;PARCO LAMBRO - CIMIANO;0;0
+viale-alcide-de-gasperi;20151;viale alcide de gasperi;GALLARATESE;2715;9
+via-uruguay;20151;via uruguay;GALLARATESE;0;0
+via-adolfo-omodeo;20151;via adolfo omodeo;GALLARATESE;2841;9.38
+via-giacomo-quarenghi;20151;via giacomo quarenghi;GALLARATESE;0;0
+via-de-gasperi;20151;via de gasperi;GALLARATESE;0;0
+via-torrazza;20151;via torrazza;GALLARATESE;2225;7.25
+via-antonio-gramsci;20019;via antonio gramsci;S. SIRO;6217;15.2
+via-gramsci;20019;via gramsci;S. SIRO;3105;15.2
+via-giuseppe-di-vittorio;20019;via giuseppe di vittorio;S. SIRO;3105;13.33
+via-benedetto-varchi;20158;via benedetto varchi;GHISOLFA;0;0
+via-imbriani;20158;via imbriani;GHISOLFA;0;0
+via-scalvini;20158;via scalvini;GHISOLFA;0;0
+via-enrico-annibale-butti;20159;via enrico annibale butti;GHISOLFA;0;0
+piazzale-lugano;20158;piazzale lugano;GHISOLFA;3638;10
+viale-luigi-bodio;20158;viale luigi bodio;GHISOLFA;3088;8.75
+viale-edoardo-jenner;20158;viale edoardo jenner;GHISOLFA;2963;8.32
+viale-lancetti;21058;viale lancetti;GHISOLFA;0;0
+via-privata-catone;20158;via privata catone;GHISOLFA;0;0
+via-privata-angiolo-maffucci;20158;via privata angiolo maffucci;GHISOLFA;0;0
+via-maloia;20158;via maloia;GHISOLFA;0;0
+via-rosa-massara-de-capitani;20158;via rosa massara de capitani;GHISOLFA;0;0
+via-delle-forze-armate;20152;via delle forze armate;BAGGIO;2257;7
+via-ceriani;20153;via ceriani;BAGGIO;0;0
+via-bonaventura-broggini;20152;via bonaventura broggini;BAGGIO;0;0
+via-forze-armate;20152;via forze armate;BAGGIO;0;0
+via-cabella;20152;via cabella;BAGGIO;0;0
+via-rismondo;20153;via rismondo;BAGGIO;0;0
+via-francesco-rismondo;20152;via francesco rismondo;BAGGIO;0;0
+via-noale;20152;via noale;BAGGIO;0;0
+via-fratelli-zoia;20153;via fratelli zoia;QUARTO CAGNINO;2300;8.25
+via-benjamin-constant;20153;via benjamin constant;QUARTO CAGNINO;0;0
+via-lorenteggio;20152;via lorenteggio;LORENTEGGIO;2300;8.25
+via-lodovico-il-moro;20142;via lodovico il moro;LORENTEGGIO;0;0
+via-caboto;20094;via caboto;LORENTEGGIO;0;0
+piazza-carabelli;20094;piazza carabelli;LORENTEGGIO;0;0
+via-privata-mulino;20090;via privata mulino;LORENTEGGIO;0;0
+via-giordani;20147;via giordani;LORENTEGGIO;2300;8.25
+via-del-cardellino;20147;via del cardellino;LORENTEGGIO;2300;8.25
+via-angelo-inganni;20147;via angelo inganni;LORENTEGGIO;0;0
+via-molinetto-di-lorenteggio;20094;via molinetto di lorenteggio;LORENTEGGIO;0;0
+via-molinetto;20147;via molinetto;LORENTEGGIO;0;0
+via-anna-kuliscioff;20151;via anna kuliscioff;LORENTEGGIO;0;0
+via-sebastiano-caboto;20094;via sebastiano caboto;LORENTEGGIO;0;0
+via-tulipani;20146;via tulipani;GIAMBELLINO;0;0
+alzaia-naviglio-grande;20144;alzaia naviglio grande;GIAMBELLINO;3505;10.58
+via-savona;20146;via savona;GIAMBELLINO;2700;9.5
+via-curio-dentato;20146;via curio dentato;GIAMBELLINO;2700;9.5
+via-giambellino;20146;via giambellino;GIAMBELLINO;0;0
+piazza-enrico-berlinguer;20144;piazza enrico berlinguer;GIAMBELLINO;0;0
+viale-giulio-richard;20143;viale giulio richard;GIAMBELLINO;0;0
+via-degli-zuccaro;20146;via degli zuccaro;GIAMBELLINO;2700;9.5
+via-dei-biancospini;20146;via dei biancospini;GIAMBELLINO;2700;9.5
+via-leone-tolstoj;20146;via leone tolstoj;GIAMBELLINO;0;0
+via-redaelli;20146;via redaelli;GIAMBELLINO;0;0
+via-pietro-redaelli;20146;via pietro redaelli;GIAMBELLINO;2700;9.5
+largo-balestra;20146;largo balestra;GIAMBELLINO;0;0
+piazza-pietro-frattini;20146;piazza pietro frattini;GIAMBELLINO;0;0
+piazza-frattini;20146;piazza frattini;GIAMBELLINO;0;0
+via-san-giuseppe-cottolengo;20143;via san giuseppe cottolengo;GIAMBELLINO;2563;10.25
+via-tolstoj;20146;via tolstoj;GIAMBELLINO;0;0
+via-francesco-brioschi;20141;via francesco brioschi;GIAMBELLINO;2750;9.25
+via-tortona;20100;via tortona;S. CRISTOFORO;0;0
+via-pestalozzi;20143;via pestalozzi;S. CRISTOFORO;0;0
+via-carlo-troya;20144;via carlo troya;S. CRISTOFORO;0;0
+via-luigi-sala;20143;via luigi sala;S. CRISTOFORO;0;0
+via-solari;20144;via solari;S. CRISTOFORO;0;0
+via-ludovico-il-moro;20143;via ludovico il moro;S. CRISTOFORO;0;0
+piazza-napoli;20146;piazza napoli;S. CRISTOFORO;3338;10.13
+ripa-di-porta-ticinese-b;20143;ripa di porta ticinese b;S. CRISTOFORO;0;0
+via-stendhal;20144;via stendhal;S. CRISTOFORO;4682;13.88
+via-watt;20143;via watt;S. CRISTOFORO;0;0
+piazza-bolivar;20146;piazza bolivar;S. CRISTOFORO;0;0
+via-elia-lombardini;20143;via elia lombardini;S. CRISTOFORO;3975;10.75
+via-morimondo;20143;via morimondo;S. CRISTOFORO;0;0
+via-anguissola;20144;via anguissola;S. CRISTOFORO;0;0
+via-eugenio-villoresi;20143;via eugenio villoresi;S. CRISTOFORO;3975;10.75
+via-giacomo-watt;20143;via giacomo watt;S. CRISTOFORO;0;0
+via-delle-foppette;20144;via delle foppette;S. CRISTOFORO;3975;10.75
+viale-misurata;20146;viale misurata;S. CRISTOFORO;4021;12.42
+via-ambrogio-binda;20134;via ambrogio binda;S. CRISTOFORO;0;0
+via-andrea-solari;20144;via andrea solari;S. CRISTOFORO;3975;10.75
+viale-carlo-troya;20144;viale carlo troya;S. CRISTOFORO;3338;10.13
+via-washington;20146;via washington;S. CRISTOFORO;0;0
+viale-cassala;20143;viale cassala;S. CRISTOFORO;3269;10.5
+via-degli-alpini;20090;via degli alpini;RONCHETTO SUL NAVIGLIO;2940;11.86
+via-carlo-baravalle;20142;via carlo baravalle;TIBALDI;0;0
+via-meda;20143;via meda;TIBALDI;0;0
+via-giuseppe-meda;20136;via giuseppe meda;TIBALDI;0;0
+largo-mahler;20136;largo mahler;TIBALDI;0;0
+via-conchetta;20136;via conchetta;TIBALDI;3875;10.75
+via-evangelista-torricelli;20136;via evangelista torricelli;TIBALDI;3313;10
+piazza-caduti-sul-lavoro;20141;piazza caduti sul lavoro;TIBALDI;0;0
+via-bonghi;20141;via bonghi;TIBALDI;2750;9.25
+via-giovanni-pezzotti;20141;via giovanni pezzotti;TIBALDI;2750;9.25
+corso-san-gottardo;20136;corso san gottardo;TIBALDI;0;0
+via-torricelli;20136;via torricelli;TIBALDI;0;0
+via-ruggero-bonghi;20141;via ruggero bonghi;TIBALDI;0;0
+viale-tibaldi;20136;viale tibaldi;TIBALDI;3313;10
+via-cardinale-ascanio-sforza;20141;via cardinale ascanio sforza;TIBALDI;0;0
+via-tabacchi;20136;via tabacchi;TIBALDI;0;0
+via-pietro-pomponazzi;20141;via pietro pomponazzi;TIBALDI;2750;9.25
+via-brioschi;20136;via brioschi;TIBALDI;0;0
+via-cristina-belgioioso;20156;via cristina belgioioso;CASCINA TRIULZA - EXPO;2685;14.7
+expo-milano;20157;expo milano;CASCINA TRIULZA - EXPO;2948;13.9
+via-aquileia;20021;via aquileia;CASCINA TRIULZA - EXPO;0;0
+via-carlo-amoretti;20157;via carlo amoretti;QUARTO OGGIARO;0;0
+via-sabatini-lopez;20157;via sabatini lopez;QUARTO OGGIARO;0;0
+via-bovisasca;20026;via bovisasca;QUARTO OGGIARO;0;0
+via-trilussa;20157;via trilussa;QUARTO OGGIARO;0;0
+via-privata-trilussa;20157;via privata trilussa;QUARTO OGGIARO;0;0
+via-graf;20157;via graf;QUARTO OGGIARO;0;0
+via-amoretti;20026;via amoretti;QUARTO OGGIARO;0;0
+via-antonio-aldini;20157;via antonio aldini;QUARTO OGGIARO;2063;6.5
+via-carlo-perini;20157;via carlo perini;QUARTO OGGIARO;2063;6.5
+via-pellegrino-rossi;20161;via pellegrino rossi;AFFORI;0;0
+viale-affori;20161;viale affori;AFFORI;2532;7.38
+via-cialdini;20161;via cialdini;AFFORI;0;0
+via-astesani;20161;via astesani;AFFORI;0;0
+via-franco-faccio;20161;via franco faccio;AFFORI;0;0
+via-cevedale;20158;via cevedale;AFFORI;0;0
+via-nicotera;20161;via nicotera;AFFORI;0;0
+via-sbarbaro;20161;via sbarbaro;AFFORI;0;0
+viale-enrico-fermi;20161;viale enrico fermi;AFFORI;0;0
+via-iseo;20161;via iseo;AFFORI;0;0
+via-luigi-bertelli;20127;via luigi bertelli;PADOVA;0;0
+via-rovetta;20127;via rovetta;PADOVA;0;0
+via-cavezzali;20127;via cavezzali;PADOVA;0;0
+via-dei-valtorta;20127;via dei valtorta;PADOVA;0;0
+via-asiago;20128;via asiago;PADOVA;0;0
+via-privata-terenzio-mamiani;20127;via privata terenzio mamiani;PADOVA;0;0
+via-policarpo-petrocchi;20127;via policarpo petrocchi;PADOVA;0;0
+via-bono-cairoli;20127;via bono cairoli;PADOVA;0;0
+via-ponte-nuovo;20128;via ponte nuovo;PADOVA;2424;16.27
+via-spadolini;20141;via spadolini;EX OM - MORIVIONE;0;0
+via-corrado-il-salico;20141;via corrado il salico;EX OM - MORIVIONE;0;0
+via-carlo-bazzi;20141;via carlo bazzi;EX OM - MORIVIONE;2750;9.25
+via-dei-fontanili;20123;via dei fontanili;EX OM - MORIVIONE;0;0
+via-adriano;20128;via adriano;ADRIANO;0;0
+via-san-mamete;20128;via san mamete;ADRIANO;2450;7.75
+via-privata-cascia;20128;via privata cascia;ADRIANO;0;0
+via-rizzoli;20132;via rizzoli;ADRIANO;0;0
+via-privata-vipiteno;20128;via privata vipiteno;ADRIANO;2450;7.75
+via-ceresio;20154;via ceresio;FARINI;4407;13.25
+via-paolo-sarpi;20154;via paolo sarpi;FARINI;0;0
+via-carlo-farini;20154;via carlo farini;FARINI;0;0
+piazzale-cimitero-monumentale;20154;piazzale cimitero monumentale;FARINI;4407;13.25
+via-quadrio;20154;via quadrio;FARINI;0;0
+via-toqueville;20154;via toqueville;FARINI;0;0
+via-pasubio;20154;via pasubio;FARINI;0;0
+via-aristotile-fioravanti;20154;via aristotile fioravanti;FARINI;3638;10
+via-farini;20154;via farini;FARINI;0;0
+viale-francesco-crispi;20121;viale francesco crispi;FARINI;0;0
+viale-pasubio;20154;viale pasubio;FARINI;0;0
+piazzale-baiamonti;20154;piazzale baiamonti;FARINI;0;0
+via-pontida;20121;via pontida;FARINI;6375;19.75
+via-alessandro-volta;20121;via alessandro volta;FARINI;0;0
+via-tazzoli;20154;via tazzoli;FARINI;0;0
+corso-como;20154;corso como;FARINI;5175;16.5
+via-bastioni-di-porta-volta;20121;via bastioni di porta volta;FARINI;0;0
+via-varese;20121;via varese;FARINI;0;0
+corso-garibaldi;20121;corso garibaldi;FARINI;0;0
+via-pietro-giannone;20154;via pietro giannone;FARINI;0;0
+piazza-xxv-aprile;20154;piazza xxv aprile;FARINI;0;0
+piazza--aprile;20124;piazza  aprile;FARINI;0;0
+via-procaccini;20154;via procaccini;FARINI;0;0
+via-vincenzo-capelli;20124;via vincenzo capelli;FARINI;0;0
+via-carmagnola;20159;via carmagnola;FARINI;0;0
+via-giordano-bruno;20154;via giordano bruno;FARINI;3638;10
+via-giovanni-battista-niccolini;20154;via giovanni battista niccolini;FARINI;3638;10
+via-messina;20154;via messina;FARINI;3638;10
+via-pastrengo;20159;via pastrengo;FARINI;0;0
+fabbrica-del-vapore;20154;fabbrica del vapore;FARINI;0;0
+via-arnoldo-di-cambio;20154;via arnoldo di cambio;FARINI;0;0
+via-antonio-rosmini;20154;via antonio rosmini;FARINI;0;0
+viale-umbria;20135;viale umbria;UMBRIA - MOLISE;3069;9
+via-decembrio;20137;via decembrio;UMBRIA - MOLISE;0;0
+via-friuli;20135;via friuli;UMBRIA - MOLISE;0;0
+via-maestri-campionesi;20135;via maestri campionesi;UMBRIA - MOLISE;0;0
+piazzale-martini;20135;piazzale martini;UMBRIA - MOLISE;0;0
+via-cuccagna;20135;via cuccagna;UMBRIA - MOLISE;0;0
+via-tito-livio;20137;via tito livio;UMBRIA - MOLISE;0;0
+via-ciceri-visconti;20137;via ciceri visconti;UMBRIA - MOLISE;0;0
+via-pier-candido-decembrio;20137;via pier candido decembrio;UMBRIA - MOLISE;2975;7.75
+piazza-insubria;20137;piazza insubria;UMBRIA - MOLISE;0;0
+via-lodovico-muratori;20135;via lodovico muratori;UMBRIA - MOLISE;0;0
+via-tertulliano;20137;via tertulliano;UMBRIA - MOLISE;0;0
+via-cadolini;20137;via cadolini;UMBRIA - MOLISE;0;0
+piazza-imperatore-tito;20137;piazza imperatore tito;UMBRIA - MOLISE;2975;7.75
+piazzale-ferdinando-martini;20137;piazzale ferdinando martini;UMBRIA - MOLISE;0;0
+via-costanza-arconati;20135;via costanza arconati;UMBRIA - MOLISE;0;0
+via-angelo-moro;20097;via angelo moro;TRIULZO SUPERIORE;0;0
+via-marignano;20138;via marignano;TRIULZO SUPERIORE;2438;7.5
+via-caviaga;20097;via caviaga;TRIULZO SUPERIORE;0;0
+strada-paullese;20100;strada paullese;TRIULZO SUPERIORE;0;0
+via-nettunense;72;via nettunense;TRIULZO SUPERIORE;0;0
+viale-campania;20133;viale campania;CORSICA;3163;10.25
+via-marcona;20129;via marcona;CORSICA;0;0
+via-giuseppe-compagnoni;20139;via giuseppe compagnoni;CORSICA;0;0
+via-battistotti-sassi;20133;via battistotti sassi;CORSICA;0;0
+corso--marzo;20129;corso  marzo;CORSICA;0;0
+viale-romagna;20133;viale romagna;CORSICA;3163;10.25
+viale-corsica;20137;viale corsica;CORSICA;3163;10.25
+via-lomellina;20133;via lomellina;CORSICA;0;0
+piazza-fusina;20133;piazza fusina;CORSICA;0;0
+via-giovanni-battista-piranesi;20137;via giovanni battista piranesi;CORSICA;3163;10.25
+via-pellizzone;20133;via pellizzone;CORSICA;;
+via-gian-carlo-sismondi;20133;via gian carlo sismondi;CORSICA;0;0
+via-reina;20133;via reina;CORSICA;0;0
+viale-argonne;20133;viale argonne;CORSICA;0;0
+via-luisa-battistotti-sassi;20100;via luisa battistotti sassi;CORSICA;0;0
+via-zanella;20133;via zanella;CORSICA;0;0
+piazzale-susa;20133;piazzale susa;CORSICA;0;0
+piazza-francesco-guardi;20133;piazza francesco guardi;CORSICA;0;0
+via-negroli;20133;via negroli;CORSICA;0;0
+via-grasselli;20137;via grasselli;CORSICA;0;0
+via-giovanni-celoria;20133;via giovanni celoria;CITTA' STUDI;0;0
+piazza-leonardo-da-vinci;20133;piazza leonardo da vinci;CITTA' STUDI;0;0
+via-denti;20134;via denti;CITTA' STUDI;0;0
+viale-gran-sasso;20131;viale gran sasso;CITTA' STUDI;4169;13.38
+via-bronzino;20133;via bronzino;CITTA' STUDI;0;0
+via-pascoli;20133;via pascoli;CITTA' STUDI;0;0
+via-pacini;20131;via pacini;CITTA' STUDI;0;0
+via-camillo-golgi;20133;via camillo golgi;CITTA' STUDI;0;0
+via-ampère;20131;via ampère;CITTA' STUDI;0;0
+via-ampere;20161;via ampere;CITTA' STUDI;0;0
+via-moretto-da-brescia;20133;via moretto da brescia;CITTA' STUDI;0;0
+via-teodosio;20131;via teodosio;CITTA' STUDI;0;0
+via-donatello;20131;via donatello;CITTA' STUDI;0;0
+via-plinio;20129;via plinio;CITTA' STUDI;0;0
+via-antonio-bazzini;20131;via antonio bazzini;CITTA' STUDI;0;0
+piazza-domenico-aspari;20129;piazza domenico aspari;CITTA' STUDI;0;0
+via-giovanni-paisiello;20131;via giovanni paisiello;CITTA' STUDI;0;0
+viale-abruzzi;;viale abruzzi;CITTA' STUDI;0;0
+via-enrico-nöe;20133;via enrico nöe;CITTA' STUDI;0;0
+via-maiocchi;20129;via maiocchi;CITTA' STUDI;0;0
+via-francesco-lomonaco;20131;via francesco lomonaco;CITTA' STUDI;0;0
+via-alfonso-corti;20133;via alfonso corti;CITTA' STUDI;0;0
+via-giovanni-pacini;20134;via giovanni pacini;CITTA' STUDI;0;0
+via-andrea-maria-ampère;20131;via andrea maria ampère;CITTA' STUDI;0;0
+via-antonio-vallisneri;20133;via antonio vallisneri;CITTA' STUDI;0;0
+via-carlo-forlanini;20133;via carlo forlanini;CITTA' STUDI;0;0
+via-gaetano-strambio;20133;via gaetano strambio;CITTA' STUDI;0;0
+via-edoardo-bassini;20133;via edoardo bassini;CITTA' STUDI;0;0
+via-filippo-juvara;20129;via filippo juvara;CITTA' STUDI;0;0
+via-vallazze;20100;via vallazze;CITTA' STUDI;0;0
+via-grossich;20100;via grossich;CITTA' STUDI;0;0
+via-aselli;20133;via aselli;CITTA' STUDI;0;0
+via-carlo-valvassori-peroni;20133;via carlo valvassori peroni;CITTA' STUDI;0;0
+via-bazzini;20131;via bazzini;CITTA' STUDI;0;0
+via-vigilio-inama;20133;via vigilio inama;CITTA' STUDI;0;0
+via-giuseppe-ponzio;20133;via giuseppe ponzio;CITTA' STUDI;0;0
+via-sangallo;20133;via sangallo;CITTA' STUDI;0;0
+via-ponzio;20143;via ponzio;CITTA' STUDI;0;0
+piazza-ferravilla;20129;piazza ferravilla;CITTA' STUDI;0;0
+via-rembrandt;20148;via rembrandt;SELINUNTE;2700;9.5
+via-carlo-dolci;20148;via carlo dolci;SELINUNTE;0;0
+via-paolo-rembrandt;20148;via paolo rembrandt;SELINUNTE;0;0
+via-matteo-civitali;20148;via matteo civitali;SELINUNTE;0;0
+via-morgantini;20148;via morgantini;SELINUNTE;0;0
+via-daniele-ricciarelli;20148;via daniele ricciarelli;SELINUNTE;0;0
+via-vodice;20148;via vodice;SELINUNTE;0;0
+piazzale-segesta;20148;piazzale segesta;SELINUNTE;0;0
+via-capecelatro;20144;via capecelatro;SELINUNTE;0;0
+via-paravia;20148;via paravia;SELINUNTE;0;0
+piazza-monte-falterona;20148;piazza monte falterona;SELINUNTE;2700;9.5
+via-aretusa;20148;via aretusa;SELINUNTE;0;0
+viale-murillo;20149;viale murillo;SELINUNTE;4044;13.26
+via-gaudenzio-fantoli;20138;via gaudenzio fantoli;PARCO MONLUE' - PONTE LAMBRO;2438;7.5
+via-monluè;20138;via monluè;PARCO MONLUE' - PONTE LAMBRO;0;0
+via-mecenate;20138;via mecenate;PARCO MONLUE' - PONTE LAMBRO;0;0
+via-trani;20138;via trani;PARCO MONLUE' - PONTE LAMBRO;2438;7.5
+via-gianfranco-malipiero;20138;via gianfranco malipiero;PARCO MONLUE' - PONTE LAMBRO;2438;7.5
+via-hermada;20162;via hermada;NIGUARDA - CA' GRANDA;0;0
+via-val-maira;20162;via val maira;NIGUARDA - CA' GRANDA;0;0
+via-terruggia;20162;via terruggia;NIGUARDA - CA' GRANDA;0;0
+via-luigi-ornato;20162;via luigi ornato;NIGUARDA - CA' GRANDA;2550;8
+via-monzambano;20159;via monzambano;NIGUARDA - CA' GRANDA;2625;8.25
+via-carlo-imbonati;20159;via carlo imbonati;NIGUARDA - CA' GRANDA;0;0
+via-paulucci-di-calbioli-fulcieri;20162;via paulucci di calbioli fulcieri;NIGUARDA - CA' GRANDA;0;0
+via-val-di-ledro;20162;via val di ledro;NIGUARDA - CA' GRANDA;2550;8
+via-cesare-brivio;20158;via cesare brivio;NIGUARDA - CA' GRANDA;0;0
+via-giuditta-pasta;20161;via giuditta pasta;NIGUARDA - CA' GRANDA;0;0
+via-paolo-veronesi;10148;via paolo veronesi;NIGUARDA - CA' GRANDA;0;0
+piazza-nizza;20159;piazza nizza;NIGUARDA - CA' GRANDA;0;0
+via-montegani;20141;via montegani;STADERA;0;0
+via-della-chiesa-rossa;20142;via della chiesa rossa;STADERA;2446;7.92
+via-neera;20141;via neera;STADERA;0;0
+via-ascanio-sforza;20141;via ascanio sforza;STADERA;2750;9.25
+piazza-agrippa;20141;piazza agrippa;STADERA;2588;7
+via-francesco-de-sanctis;20141;via francesco de sanctis;STADERA;0;0
+via-volvinio;20141;via volvinio;STADERA;2588;7
+via-lampedusa;20141;via lampedusa;STADERA;2642;7.75
+via-medeghino;20141;via medeghino;STADERA;2588;7
+via-lodovico-montegani;20141;via lodovico montegani;STADERA;0;0
+via-innocenzo-isimbardi;20141;via innocenzo isimbardi;STADERA;0;0
+via-boifava;20141;via boifava;STADERA;0;0
+piazza-abbiategrasso;20141;piazza abbiategrasso;STADERA;0;0
+viale-giovanni-da-cermenate;20141;viale giovanni da cermenate;STADERA;2669;8.13
+via-dei-missaglia;20142;via dei missaglia;STADERA;2588;7
+via-donna-prassede;20142;via donna prassede;STADERA;0;0
+corso-di-porta-vittoria;20122;corso di porta vittoria;GUASTALLA;0;0
+via-della-guastalla;20122;via della guastalla;GUASTALLA;0;0
+largo-augusto;20122;largo augusto;GUASTALLA;0;0
+via-della-guastalla-n;20122;via della guastalla n;GUASTALLA;0;0
+verziere;20122;verziere;GUASTALLA;0;0
+via-felice-cavallotti;20122;via felice cavallotti;GUASTALLA;;
+via-durini;20122;via durini;GUASTALLA;0;0
+via-verziere;20122;via verziere;GUASTALLA;0;0
+via-della-commenda;20122;via della commenda;GUASTALLA;7167;21.34
+via-conservatorio-a;20122;via conservatorio a;GUASTALLA;0;0
+via-besana;20122;via besana;GUASTALLA;0;0
+piazza-fontana;20122;piazza fontana;GUASTALLA;0;0
+via-san-clemente;20122;via san clemente;GUASTALLA;0;0
+piazza-del-liberty;20121;piazza del liberty;GUASTALLA;0;0
+via-conservatorio;20122;via conservatorio;GUASTALLA;0;0
+via-larga;20122;via larga;GUASTALLA;0;0
+via-borgogna;20122;via borgogna;GUASTALLA;0;0
+corso-vittorio-emanuele-ii;20122;corso vittorio emanuele ii;GUASTALLA;10367;33.84
+via-santa-tecla;20122;via santa tecla;GUASTALLA;0;0
+largo-della-crocetta;20123;largo della crocetta;GUASTALLA;0;0
+galleria-del-corso;20122;galleria del corso;GUASTALLA;10367;33.84
+via-pompeo-litta;20122;via pompeo litta;GUASTALLA;0;0
+corso-monforte;20122;corso monforte;GUASTALLA;0;0
+galleria-passarella;20122;galleria passarella;GUASTALLA;;
+corso-di-porta-romana;20122;corso di porta romana;GUASTALLA;0;0
+piazzetta-pattari;20122;piazzetta pattari;GUASTALLA;0;0
+via-cesare-beccaria;20122;via cesare beccaria;GUASTALLA;10367;33.84
+via-pantano;20122;via pantano;GUASTALLA;0;0
+corso-vittorio-emanuele;20122;corso vittorio emanuele;GUASTALLA;0;0
+piazza-san-babila;20121;piazza san babila;GUASTALLA;0;0
+via-montenapoleone;20121;via montenapoleone;GUASTALLA;0;0
+corso-europa;20122;corso europa;GUASTALLA;0;0
+via-palazzo-reale;20122;via palazzo reale;GUASTALLA;8784;27.42
+corso-montforte;20122;corso montforte;GUASTALLA;0;0
+piazza-santo-stefano;20122;piazza santo stefano;GUASTALLA;8784;27.42
+via-santa-radegonda;20121;via santa radegonda;GUASTALLA;10367;33.84
+via-orti;20122;via orti;GUASTALLA;0;0
+via-santa-sofia;20122;via santa sofia;GUASTALLA;5425;18.75
+piazza-armando-diaz;20123;piazza armando diaz;GUASTALLA;0;0
+via-san-pietro-all’orto;20121;via san pietro all’orto;GUASTALLA;0;0
+corso-venezia;20121;corso venezia;GUASTALLA;0;0
+viale-monte-nero;20135;viale monte nero;GUASTALLA;0;0
+galleria-pattari;20122;galleria pattari;GUASTALLA;0;0
+viale-bianca-maria;20129;viale bianca maria;GUASTALLA;7167;21.34
+via-flavio-baracchini;20123;via flavio baracchini;GUASTALLA;0;0
+piazza-velasca;20122;piazza velasca;GUASTALLA;0;0
+largo-corsia-dei-servi;20122;largo corsia dei servi;GUASTALLA;;
+via-privata-fratelli-gabba;20100;via privata fratelli gabba;BRERA;0;0
+via-madonnina;;via madonnina;BRERA;0;0
+via-brera;20121;via brera;BRERA;8103;24.25
+via-privata-fratelli-gabba-b;20121;via privata fratelli gabba b;BRERA;0;0
+via-san-marco;20121;via san marco;BRERA;6375;19.75
+via-fiori-chiari;20121;via fiori chiari;BRERA;8967;26.5
+via-andegari;20121;via andegari;BRERA;8967;26.5
+corso-di-porta-nuova;20121;corso di porta nuova;BRERA;0;0
+via-ancona;20121;via ancona;BRERA;0;0
+via-mercato;20122;via mercato;BRERA;0;0
+via-san-carpoforo;20121;via san carpoforo;BRERA;8967;26.5
+via-tivoli;20121;via tivoli;BRERA;0;0
+via-del-carmine;20121;via del carmine;BRERA;8967;26.5
+via-pontaccio;20121;via pontaccio;BRERA;0;0
+via-rivoli;20121;via rivoli;BRERA;6375;19.75
+via-manzoni;20121;via manzoni;BRERA;0;0
+via-alessandro-manzoni;20121;via alessandro manzoni;BRERA;0;0
+largo-antonio-greppi;20121;largo antonio greppi;BRERA;0;0
+corso-giuseppe-garibaldi;20121;corso giuseppe garibaldi;BRERA;7239;22
+via-monte-napoleone;20121;via monte napoleone;BRERA;0;0
+via-croce-rossa;20121;via croce rossa;BRERA;;
+via-montebello;20121;via montebello;BRERA;0;0
+via-delio-tessa;20121;via delio tessa;BRERA;0;0
+via-marco-formentini;20121;via marco formentini;BRERA;0;0
+via-borgospesso;20121;via borgospesso;BRERA;;
+piazza-san-simpliciano;20121;piazza san simpliciano;BRERA;6375;19.75
+via-ciovasso;20121;via ciovasso;BRERA;8967;26.5
+piazza-del-carmine;20121;piazza del carmine;BRERA;0;0
+via-gastone-pisoni;20121;via gastone pisoni;BRERA;0;0
+via-santo-spirito;20121;via santo spirito;BRERA;;
+via-solferino;20121;via solferino;BRERA;6375;19.75
+via-fatebenefratelli;20121;via fatebenefratelli;BRERA;0;0
+via-san-raffaele;20121;via san raffaele;DUOMO;10367;33.84
+via-ulrico-hoepli;20121;via ulrico hoepli;DUOMO;0;0
+via-ugo-foscolo;20121;via ugo foscolo;DUOMO;10367;33.84
+via-degli-omenoni;20121;via degli omenoni;DUOMO;0;0
+via-agnello;20121;via agnello;DUOMO;10367;33.84
+piazza-filippo-meda;20121;piazza filippo meda;DUOMO;0;0
+via-bagutta;20121;via bagutta;DUOMO;0;0
+via-verri;20121;via verri;DUOMO;0;0
+via-berchet;20121;via berchet;DUOMO;0;0
+corso-giacomo-matteotti;20121;corso giacomo matteotti;DUOMO;0;0
+galleria-vittorio-emanuele;20123;galleria vittorio emanuele;DUOMO;0;0
+via-gargano;20135;via gargano;SCALO ROMANA;0;0
+via-bessarione;20139;via bessarione;SCALO ROMANA;0;0
+via-gian-francesco-pizzi;20141;via gian francesco pizzi;SCALO ROMANA;0;0
+largo-isaco;20139;largo isaco;SCALO ROMANA;0;0
+largo-isarco;20135;largo isarco;SCALO ROMANA;0;0
+via-benaco;20100;via benaco;SCALO ROMANA;0;0
+via-don-bosco;20139;via don bosco;SCALO ROMANA;0;0
+viale-ortles;20139;viale ortles;SCALO ROMANA;0;0
+via-lorenzini;20139;via lorenzini;SCALO ROMANA;0;0
+via-ripamonti;20141;via ripamonti;SCALO ROMANA;;
+via-tagliamento;20139;via tagliamento;SCALO ROMANA;0;0
+via-ampola;20141;via ampola;SCALO ROMANA;0;0
+via-bernardo-quaranta;20141;via bernardo quaranta;SCALO ROMANA;2750;9.25
+via-scalarini;20139;via scalarini;SCALO ROMANA;0;0
+via-gallura;20141;via gallura;SCALO ROMANA;0;0
+via-mincio;20139;via mincio;SCALO ROMANA;0;0
+via-brembo;20139;via brembo;SCALO ROMANA;2750;9.25
+piazza-bonomelli;20139;piazza bonomelli;SCALO ROMANA;0;0
+corso-lodi;20135;corso lodi;SCALO ROMANA;3200;9.25
+via-giuseppe-ripamonti;20141;via giuseppe ripamonti;SCALO ROMANA;2669;8.13
+via-oglio;20139;via oglio;SCALO ROMANA;2750;9.25
+piazza-angilberto-ii;20153;piazza angilberto ii;SCALO ROMANA;0;0
+via-san-vittore;20123;via san vittore;MAGENTA - S VITTORE;5325;14.75
+via-aristide-de-togni;20123;via aristide de togni;MAGENTA - S VITTORE;5325;14.75
+via-matteo-bandello--;20123;via matteo bandello -;MAGENTA - S VITTORE;0;0
+piazza-santa-maria-delle-grazie;20123;piazza santa maria delle grazie;MAGENTA - S VITTORE;0;0
+via-gian-battista-vico;20123;via gian battista vico;MAGENTA - S VITTORE;0;0
+via-boccaccio;20123;via boccaccio;MAGENTA - S VITTORE;0;0
+via-giosuè-carducci;20123;via giosuè carducci;MAGENTA - S VITTORE;0;0
+viale-coni-zugna;20144;viale coni zugna;MAGENTA - S VITTORE;4650;12.75
+via-giovanni-boccaccio;20123;via giovanni boccaccio;MAGENTA - S VITTORE;;
+via-lipari;20142;via lipari;MAGENTA - S VITTORE;0;0
+via-novati;20123;via novati;MAGENTA - S VITTORE;0;0
+viale-papiniano;20123;viale papiniano;MAGENTA - S VITTORE;5325;14.75
+via-de-amicis;20123;via de amicis;MAGENTA - S VITTORE;0;0
+via-cesare-da-sesto;20123;via cesare da sesto;MAGENTA - S VITTORE;0;0
+via-bartolomeo-panizza;20144;via bartolomeo panizza;MAGENTA - S VITTORE;5388;17
+via-matteo-bandello;20123;via matteo bandello;MAGENTA - S VITTORE;5325;14.75
+via-terraggio;20100;via terraggio;MAGENTA - S VITTORE;0;0
+via-san-vincenzo;20123;via san vincenzo;MAGENTA - S VITTORE;0;0
+via-giacomo-leopardi;20123;via giacomo leopardi;MAGENTA - S VITTORE;;
+via-leopardi;20123;via leopardi;MAGENTA - S VITTORE;0;0
+piazza-baracca;20123;piazza baracca;MAGENTA - S VITTORE;0;0
+via-vincenzo-monti;20123;via vincenzo monti;MAGENTA - S VITTORE;;
+piazza-giovine-italia;20123;piazza giovine italia;MAGENTA - S VITTORE;;
+piazza-virgilio;20123;piazza virgilio;MAGENTA - S VITTORE;0;0
+piazzale-aquileia;20144;piazzale aquileia;MAGENTA - S VITTORE;0;0
+via-alberto-da-giussano-a;20145;via alberto da giussano a;MAGENTA - S VITTORE;0;0
+via-arcangelo-ghisleri;20144;via arcangelo ghisleri;MAGENTA - S VITTORE;0;0
+via-ariberto;20123;via ariberto;MAGENTA - S VITTORE;0;0
+via-carlo-cicogna-mozzoni;20161;via carlo cicogna mozzoni;BOVISASCA;2532;7.38
+viale-zara;20159;viale zara;BOVISASCA;3644;10.75
+via-casina-dei-prati;20157;via casina dei prati;BOVISASCA;0;0
+via-giulio-verne;20137;via giulio verne;LODI - CORVETTO;0;0
+via-barabino;20100;via barabino;LODI - CORVETTO;0;0
+via-carlo-marochetti;20139;via carlo marochetti;LODI - CORVETTO;2669;8.13
+upim;20139;upim;LODI - CORVETTO;0;0
+via-toffetti;20139;via toffetti;LODI - CORVETTO;0;0
+via-vincenzo-toffetti;20139;via vincenzo toffetti;LODI - CORVETTO;0;0
+viale-brenta;20139;viale brenta;LODI - CORVETTO;0;0
+via-lucania;20126;via lucania;LODI - CORVETTO;0;0
+viale-enrico-martini;20139;viale enrico martini;LODI - CORVETTO;0;0
+via-fabio-massimo;20139;via fabio massimo;LODI - CORVETTO;0;0
+via-tullo-massarani;20139;via tullo massarani;LODI - CORVETTO;0;0
+via-polesine;20139;via polesine;LODI - CORVETTO;2669;8.13
+viale-lucania;20139;viale lucania;LODI - CORVETTO;2669;8.13
+piazzale-corvetto;20139;piazzale corvetto;LODI - CORVETTO;0;0
+via-bonfadini;20138;via bonfadini;LODI - CORVETTO;0;0
+via-pietro-gaggia;20139;via pietro gaggia;LODI - CORVETTO;2588;7
+piazzale-bologna;20139;piazzale bologna;LODI - CORVETTO;2588;7
+via-giovanni-cadolini;20137;via giovanni cadolini;LODI - CORVETTO;0;0
+viale-puglie;20137;viale puglie;LODI - CORVETTO;2975;7.75
+upim-pop-corvetto;20139;upim pop corvetto;LODI - CORVETTO;0;0
+piazzale-vincenzo-cuoco;20137;piazzale vincenzo cuoco;LODI - CORVETTO;2707;7.63
+piazza-mistral;20139;piazza mistral;LODI - CORVETTO;0;0
+via-privata-giovanni-ventura;20134;via privata giovanni ventura;LAMBRATE;0;0
+piazza-vigili-del-fuoco;20134;piazza vigili del fuoco;LAMBRATE;2375;6.5
+via-carlo-bertolazzi;20134;via carlo bertolazzi;LAMBRATE;0;0
+via-riccardo-pitteri;20134;via riccardo pitteri;LAMBRATE;0;0
+via-maria-grazia-cutuli;20134;via maria grazia cutuli;LAMBRATE;0;0
+via-rombon;20134;via rombon;LAMBRATE;2526;7.38
+via-pitteri;20134;via pitteri;LAMBRATE;0;0
+via-lambretta;20090;via lambretta;LAMBRATE;0;0
+via-canelli;20134;via canelli;LAMBRATE;0;0
+via-privata-gaetano-sbodio;20134;via privata gaetano sbodio;LAMBRATE;0;0
+via-saccardo;20134;via saccardo;LAMBRATE;0;0
+via-sbodio;20133;via sbodio;LAMBRATE;0;0
+viale-delle-rimembranze-di-lambrate;20134;viale delle rimembranze di lambrate;LAMBRATE;0;0
+via-conte-rosso;20134;via conte rosso;LAMBRATE;0;0
+via-lago-di-nemi;20142;via lago di nemi;BARONA;0;0
+via-barona;20142;via barona;BARONA;0;0
+via-de-nicola;20142;via de nicola;BARONA;0;0
+via-ovada;20142;via ovada;BARONA;0;0
+piazza-guglielmo-miani;20143;piazza guglielmo miani;BARONA;2563;10.25
+via-bari;20139;via bari;BARONA;0;0
+via-santa-rita-da-cascia;20143;via santa rita da cascia;BARONA;2563;10.25
+via-acerbi;20161;via acerbi;BRUZZANO;2532;8
+piazza-giustino-fortunato;20161;piazza giustino fortunato;BRUZZANO;2340;7.17
+via-casarsa;20161;via casarsa;BRUZZANO;2700;8.25
+via-ratti;20151;via ratti;TRENNO;0;0
+via-luigi-ratti;20151;via luigi ratti;TRENNO;2225;7.25
+piazza-rosa-scolari;20151;piazza rosa scolari;TRENNO;2225;7.25
+piazzale-di-porta-lodovica;20136;piazzale di porta lodovica;GRATOSOGLIO - TICINELLO;0;0
+via-selvanesco;20142;via selvanesco;GRATOSOGLIO - TICINELLO;0;0
+alzaia-naviglio-pavese;20142;alzaia naviglio pavese;GRATOSOGLIO - TICINELLO;2563;10.25
+viale-dei-missaglia;20142;viale dei missaglia;GRATOSOGLIO - TICINELLO;2509;7.59
+via-lucio-cornelio-silla;20153;via lucio cornelio silla;FIGINO;2450;12.22
+via-gaetano-airaghi;20153;via gaetano airaghi;QUINTO ROMANO;2870;11.18
+via-cusago;20153;via cusago;PARCO AGRICOLO SUD;2257;7
+via-per-cusago;20153;via per cusago;PARCO AGRICOLO SUD;0;0
+via-riccardo-lombardi;20153;via riccardo lombardi;PARCO AGRICOLO SUD;2257;7
+via-varesina;20156;via varesina;VILLAPIZZONE;0;0
+via-villapizzone;20156;via villapizzone;VILLAPIZZONE;0;0
+viale-carlo-espinasse;20156;viale carlo espinasse;VILLAPIZZONE;0;0
+via-jacopino-da-tradate;20156;via jacopino da tradate;VILLAPIZZONE;0;0
+piazzale-accursio;20151;piazzale accursio;VILLAPIZZONE;0;0
+via-francesco-de-lemene;20156;via francesco de lemene;VILLAPIZZONE;0;0
+via-grosotto;20149;via grosotto;VILLAPIZZONE;0;0
+via-pier-francesco-mola;20156;via pier francesco mola;VILLAPIZZONE;2463;8.25
+via-ludovico-di-breme;20156;via ludovico di breme;VILLAPIZZONE;2463;8.25
+via-bernardino-galliari;20156;via bernardino galliari;VILLAPIZZONE;0;0
+via-giovanni-da-udine;20156;via giovanni da udine;VILLAPIZZONE;0;0
+via-mac-mahon;20155;via mac mahon;VILLAPIZZONE;0;0
+viale-espinasse;20156;viale espinasse;VILLAPIZZONE;0;0
+viale-carlo-espinasse--;20156;viale carlo espinasse -;VILLAPIZZONE;0;0
+via-masolino-da-panicale;20155;via masolino da panicale;VILLAPIZZONE;0;0
+via-privata-della-bindellina;20155;via privata della bindellina;VILLAPIZZONE;0;0
+via-pacinotti;20155;via pacinotti;VILLAPIZZONE;0;0
+via-monte-ceneri;20155;via monte ceneri;VILLAPIZZONE;0;0
+via-gianbattista-bodoni;20155;via gianbattista bodoni;VILLAPIZZONE;0;0
+via-console-marcello;20155;via console marcello;VILLAPIZZONE;0;0
+via-sonnino;20155;via sonnino;VILLAPIZZONE;0;0
+via-traiano;20149;via traiano;VILLAPIZZONE;0;0
+via-perin-del-vaga;20156;via perin del vaga;VILLAPIZZONE;2463;8.25
+via-giuseppe-candiani;20158;via giuseppe candiani;BOVISA;2063;6.5
+via-don-giuseppe-andreoli;20158;via don giuseppe andreoli;BOVISA;3638;10
+via-baldinucci;20158;via baldinucci;BOVISA;2463;8.25
+piazza-bausan;20158;piazza bausan;BOVISA;2532;7.38
+via-giovanni-battista-varè;20158;via giovanni battista varè;BOVISA;0;0
+via-varè;20158;via varè;BOVISA;0;0
+via-don-giovanni-andreoli;20158;via don giovanni andreoli;BOVISA;0;0
+piazza-alfieri;20158;piazza alfieri;BOVISA;0;0
+via-lambruschini;20156;via lambruschini;BOVISA;0;0
+via-durando;20158;via durando;BOVISA;0;0
+stazione-milano-bovisa;20158;stazione milano bovisa;BOVISA;0;0
+via-verità;20158;via verità;BOVISA;0;0
+via-dei-frassini;20156;via dei frassini;BOVISA;0;0
+via-ciaia;20158;via ciaia;DERGANO;3416;18.69
+piazza-dergano;20158;piazza dergano;DERGANO;2523;16.66
+via-bernardo-davanzati;20158;via bernardo davanzati;DERGANO;0;0
+via-legnone;20158;via legnone;DERGANO;0;0
+via-livigno;20100;via livigno;DERGANO;0;0
+viale-sarca;20126;viale sarca;BICOCCA;0;0
+via-chiese;20126;via chiese;BICOCCA;0;0
+viale-suzzani;20162;viale suzzani;BICOCCA;0;0
+piazzetta-difesa-delle-donne;20126;piazzetta difesa delle donne;BICOCCA;0;0
+viale-fulvio-testi;20126;viale fulvio testi;BICOCCA;2550;8
+via-ansaldo;20126;via ansaldo;BICOCCA;0;0
+via-piero-e-alberto-pirelli;20126;via piero e alberto pirelli;BICOCCA;0;0
+viale-piero-e-alberto-pirelli;20126;viale piero e alberto pirelli;BICOCCA;0;0
+via-san-glicerio;20162;via san glicerio;BICOCCA;0;0
+via-beccali;20162;via beccali;BICOCCA;0;0
+via-san-miniato;20162;via san miniato;BICOCCA;0;0
+piazza-dei-daini;20126;piazza dei daini;BICOCCA;0;0
+via-masaccio;20149;via masaccio;PORTELLO;5388;17
+piazza-tre-torri;20145;piazza tre torri;PORTELLO;0;0
+via-sebastiano-del-piombo;20149;via sebastiano del piombo;PORTELLO;0;0
+via-francesco-albani;20148;via francesco albani;PORTELLO;4423;14.25
+via-monte-amiata;20149;via monte amiata;PORTELLO;0;0
+viale-paolo-onorato-vigliani;20148;viale paolo onorato vigliani;PORTELLO;0;0
+via-giovanni-gattamelata;20149;via giovanni gattamelata;PORTELLO;0;0
+piazzale-lorenzo-lotto;20148;piazzale lorenzo lotto;PORTELLO;3457;11.5
+via-guglielmo-silva;20149;via guglielmo silva;PORTELLO;0;0
+via-madruzzo;20149;via madruzzo;PORTELLO;0;0
+via-albani;20148;via albani;PORTELLO;3457;11.5
+via-silva;20149;via silva;PORTELLO;0;0
+piazzale-lotto;20148;piazzale lotto;PORTELLO;0;0
+piazzale-arduino;20149;piazzale arduino;PORTELLO;9475;30.75
+via-desiderio-da-settignano;20149;via desiderio da settignano;PORTELLO;5388;17
+via-demetrio-stratos;20100;via demetrio stratos;TRE TORRI;9400;11.81
+largo-domodossola--a;20145;largo domodossola  a;TRE TORRI;6302;16.66
+citylife;20145;citylife;TRE TORRI;6066;17.64
+piazza-sempione;20154;piazza sempione;PARCO SEMPIONE;0;0
+via-luigi-camoens;20121;via luigi camoens;PARCO SEMPIONE;0;0
+viale-emilio-alemagna;20121;viale emilio alemagna;PARCO SEMPIONE;0;0
+triennale-di-milano;20121;triennale di milano;PARCO SEMPIONE;0;0
+parco-sempione;20121;parco sempione;PARCO SEMPIONE;0;0
+corso-sempione-n;20145;corso sempione n;PARCO SEMPIONE;0;0
+via-cirillo;20154;via cirillo;PARCO SEMPIONE;;
+via-giovanni-gherardini;20145;via giovanni gherardini;PARCO SEMPIONE;0;0
+via-cesare-cesariano;20154;via cesare cesariano;PARCO SEMPIONE;0;0
+via-cagnola;20154;via cagnola;PARCO SEMPIONE;0;0
+viale-alemagna;20121;viale alemagna;PARCO SEMPIONE;0;0
+corso-sempione;20154;corso sempione;PARCO SEMPIONE;4513;13.51
+via-camoens;20121;via camoens;PARCO SEMPIONE;0;0
+via-piermarini;20145;via piermarini;PARCO SEMPIONE;0;0
+corso-sempone;20145;corso sempone;PARCO SEMPIONE;0;0
+viale-enrico-ibsen;20121;viale enrico ibsen;PARCO SEMPIONE;0;0
+via-panfilo-castaldi;20124;via panfilo castaldi;GIARDINI PORTA VENEZIA;5175;16.5
+viale-vittorio-veneto;20124;viale vittorio veneto;GIARDINI PORTA VENEZIA;6171;18.92
+via-vittorio-veneto;20122;via vittorio veneto;GIARDINI PORTA VENEZIA;0;0
+corso-porta-venezia;20122;corso porta venezia;GIARDINI PORTA VENEZIA;0;0
+via-lazzaretto;20124;via lazzaretto;GIARDINI PORTA VENEZIA;0;0
+via-lecco;20100;via lecco;GIARDINI PORTA VENEZIA;0;0
+via-lazzaro-palazzi;20124;via lazzaro palazzi;GIARDINI PORTA VENEZIA;5175;16.5
+via-lodovico-settala;20124;via lodovico settala;GIARDINI PORTA VENEZIA;4282;12.82
+viale-tunisia;20124;viale tunisia;GIARDINI PORTA VENEZIA;0;0
+bastioni-di-porta-venezia;20121;bastioni di porta venezia;GIARDINI PORTA VENEZIA;5775;18.13
+giardini-pubblici-indro-montanelli;20121;giardini pubblici indro montanelli;GIARDINI PORTA VENEZIA;0;0
+via-forcella;20144;via forcella;TORTONA;3975;10.75
+via-bergognone;20144;via bergognone;TORTONA;0;0
+largo-della-culture;20144;largo della culture;TORTONA;0;0
+via-valenza;20144;via valenza;TORTONA;0;0
+ripa-di-porta-ticinese;20134;ripa di porta ticinese;TORTONA;0;0
+via-angelo-fumagalli;20143;via angelo fumagalli;TORTONA;3975;10.75
+via-vincenzo-forcella;20144;via vincenzo forcella;TORTONA;0;0
+via-casale;20144;via casale;TORTONA;3975;10.75
+piazza-del-rosario;20100;piazza del rosario;TORTONA;0;0
+via-pietro-orseolo;20144;via pietro orseolo;TORTONA;0;0
+via-montevideo;20144;via montevideo;TORTONA;3975;10.75
+via-pasquale-paoli;20143;via pasquale paoli;TORTONA;3975;10.75
+alzaia-alzaia-naviglio-grande;20100;alzaia alzaia naviglio grande;TORTONA;0;0
+via-vigevano;20144;via vigevano;TORTONA;0;0
+pasquale-paoli;20143;pasquale paoli;TORTONA;0;0
+corso-cristoforo-colombo;20144;corso cristoforo colombo;TORTONA;0;0
+via-alzaia-naviglio-grande;20144;via alzaia naviglio grande;TORTONA;0;0
+via-alessandria;20144;via alessandria;TORTONA;3975;10.75
+via-savona-a;20144;via savona a;TORTONA;0;0
+ripa-porta-ticinese;20123;ripa porta ticinese;TORTONA;0;0
+via-lombardini;20143;via lombardini;TORTONA;0;0
+via-corsico;20143;via corsico;NAVIGLI;0;0
+via-fusetti;20143;via fusetti;NAVIGLI;0;0
+via-argelati;20143;via argelati;NAVIGLI;0;0
+vicolo-dei-lavandai;20143;vicolo dei lavandai;NAVIGLI;0;0
+via-gola;20143;via gola;NAVIGLI;0;0
+via-mario-pichi;20143;via mario pichi;NAVIGLI;3975;10.75
+via-giosuè-borsi;20143;via giosuè borsi;NAVIGLI;0;0
+via-privata-bobbio;20144;via privata bobbio;NAVIGLI;4650;12.75
+alzaia-naviglio;20144;alzaia naviglio;NAVIGLI;0;0
+piazzale-antonio-cantore;20123;piazzale antonio cantore;NAVIGLI;0;0
+via-romolo;20143;via romolo;NAVIGLI;0;0
+corso-ripa-di-porta-ticinese;20144;corso ripa di porta ticinese;NAVIGLI;0;0
+via-giuseppe-lagrange;20136;via giuseppe lagrange;NAVIGLI;3875;10.75
+via-carlo-torre;20143;via carlo torre;NAVIGLI;0;0
+via-lagrange;20136;via lagrange;NAVIGLI;0;0
+via-cesariano;20143;via cesariano;NAVIGLI;0;0
+via-pietro-calvi;20129;via pietro calvi;XXII MARZO;0;0
+via-archimede;20129;via archimede;XXII MARZO;5165;15.8
+corso-xxii-marzo;10135;corso xxii marzo;XXII MARZO;0;0
+via-bezzecca;20135;via bezzecca;XXII MARZO;0;0
+piazza-santa-maria-del-suffragio;20129;piazza santa maria del suffragio;XXII MARZO;0;0
+via-benvenuto-cellini;20135;via benvenuto cellini;XXII MARZO;0;0
+via-augusto-anfossi;20135;via augusto anfossi;XXII MARZO;0;0
+via-galvano-fiamma;20024;via galvano fiamma;XXII MARZO;0;0
+via-anzani;20135;via anzani;XXII MARZO;0;0
+via-pasquale-sottocorno;20129;via pasquale sottocorno;XXII MARZO;0;0
+via-anfossi;20135;via anfossi;XXII MARZO;5071;14.55
+viale-montenero;20135;viale montenero;XXII MARZO;0;0
+piazza-cinque-giornate;20129;piazza cinque giornate;XXII MARZO;7167;21.34
+via-amatore-sciesa;20100;via amatore sciesa;XXII MARZO;0;0
+via-spartaco;20151;via spartaco;XXII MARZO;0;0
+via-cadore;20135;via cadore;XXII MARZO;;
+viale-piceno;20100;viale piceno;XXII MARZO;0;0
+corso-concordia;20100;corso concordia;XXII MARZO;0;0
+via-andrea-maffei;20135;via andrea maffei;XXII MARZO;0;0
+via-guicciardini;20156;via guicciardini;XXII MARZO;0;0
+viale-premuda;20129;viale premuda;XXII MARZO;0;0
+via-giovanni-cena;20135;via giovanni cena;XXII MARZO;0;0
+piazza-risorgimento;20129;piazza risorgimento;XXII MARZO;;
+viale-regina-margherita;20122;viale regina margherita;XXII MARZO;7167;21.34
+via-bronzetti;20129;via bronzetti;XXII MARZO;0;0
+via-carlo-pisacane;20129;via carlo pisacane;XXII MARZO;0;0
+via-fontana;20100;via fontana;XXII MARZO;0;0
+via-carlo-poma;20129;via carlo poma;XXII MARZO;0;0
+via-calvi;20129;via calvi;XXII MARZO;0;0
+via-macedonio-melloni;20129;via macedonio melloni;XXII MARZO;3163;10.25
+piazza-del-tricolore;20129;piazza del tricolore;XXII MARZO;0;0
+via-broggi;20129;via broggi;BUENOS AIRES - VENEZIA;0;0
+via-eustachi;20129;via eustachi;BUENOS AIRES - VENEZIA;0;0
+via-giorgio-jan;20129;via giorgio jan;BUENOS AIRES - VENEZIA;0;0
+via-giovanni-battista-morgagni;20129;via giovanni battista morgagni;BUENOS AIRES - VENEZIA;0;0
+via-lazzaro-spallanzani;20129;via lazzaro spallanzani;BUENOS AIRES - VENEZIA;5175;16.5
+via-paracelso;20129;via paracelso;BUENOS AIRES - VENEZIA;0;0
+viale-regina-giovanna;20129;viale regina giovanna;BUENOS AIRES - VENEZIA;0;0
+corso-buenos-aires;20124;corso buenos aires;BUENOS AIRES - VENEZIA;5175;16.5
+via-rosolino-pilo;20129;via rosolino pilo;BUENOS AIRES - VENEZIA;0;0
+via-ruggero-boscovich;20129;via ruggero boscovich;BUENOS AIRES - VENEZIA;0;0
+via-stoppani;20129;via stoppani;BUENOS AIRES - VENEZIA;0;0
+via-masera;20124;via masera;BUENOS AIRES - VENEZIA;0;0
+via-melzo;20129;via melzo;BUENOS AIRES - VENEZIA;5175;16.5
+via-scipioni;20129;via scipioni;BUENOS AIRES - VENEZIA;0;0
+via-abamonti;20129;via abamonti;BUENOS AIRES - VENEZIA;0;0
+via-sirtori;20100;via sirtori;BUENOS AIRES - VENEZIA;0;0
+via-gaspare-spontini;20131;via gaspare spontini;BUENOS AIRES - VENEZIA;5175;16.5
+via-san-gregorio;20124;via san gregorio;BUENOS AIRES - VENEZIA;5175;16.5
+via-carlo-matteucci;20129;via carlo matteucci;BUENOS AIRES - VENEZIA;0;0
+via-antonio-stoppani;20129;via antonio stoppani;BUENOS AIRES - VENEZIA;0;0
+via-alessandro-tadino;20124;via alessandro tadino;BUENOS AIRES - VENEZIA;4282;12.82
+via-federico-ozanam;20100;via federico ozanam;BUENOS AIRES - VENEZIA;0;0
+piazza-guglielmo-oberdan;20121;piazza guglielmo oberdan;BUENOS AIRES - VENEZIA;6375;19.75
+via-tadino;20124;via tadino;BUENOS AIRES - VENEZIA;0;0
+via-castel-morrone;20129;via castel morrone;BUENOS AIRES - VENEZIA;0;0
+piazza-lima;20124;piazza lima;BUENOS AIRES - VENEZIA;0;0
+via-spontini;20129;via spontini;BUENOS AIRES - VENEZIA;0;0
+via-scarlatti;20124;via scarlatti;BUENOS AIRES - VENEZIA;0;0
+via-malpighi;20129;via malpighi;BUENOS AIRES - VENEZIA;0;0
+piazza-aspromonte;20131;piazza aspromonte;BUENOS AIRES - VENEZIA;0;0
+via-paganini-niccolo;20131;via paganini niccolo;BUENOS AIRES - VENEZIA;0;0
+via-vitruvio;20124;via vitruvio;BUENOS AIRES - VENEZIA;0;0
+via-felice-casati;20124;via felice casati;BUENOS AIRES - VENEZIA;5175;16.5
+viale-piave;20129;viale piave;BUENOS AIRES - VENEZIA;0;0
+via-paolo-frisi;20129;via paolo frisi;BUENOS AIRES - VENEZIA;0;0
+via-san-bernardo;20139;via san bernardo;CHIARAVALLE;2292;16
+via-federico-chopin;20141;via federico chopin;PARCO DELLE ABBAZIE;2980;12.15
+via-macconago;20141;via macconago;PARCO DELLE ABBAZIE;0;0
+via-muzio-attendolo-detto-sforza;20141;via muzio attendolo detto sforza;PARCO DELLE ABBAZIE;0;0
+via-bruno-cassinari;20138;via bruno cassinari;ROGOREDO;2438;7.5
+via-cassinari;20138;via cassinari;ROGOREDO;0;0
+via-francesco-pizzolpasso;20138;via francesco pizzolpasso;ROGOREDO;0;0
+via-rogoredo;20138;via rogoredo;ROGOREDO;0;0
+via-monte-palombino;20138;via monte palombino;ROGOREDO;0;0
+via-monte-cengio;20138;via monte cengio;ROGOREDO;0;0
+via-pizzolpasso;20138;via pizzolpasso;ROGOREDO;0;0
+via-gian-battista-cassinis;20139;via gian battista cassinis;ROGOREDO;0;0
+via-monte-popera;20138;via monte popera;ROGOREDO;0;0
+via-quintiliano;20138;via quintiliano;MECENATE;2622;16.97
+via-carlo-de-angeli;20141;via carlo de angeli;RIPAMONTI;0;0
+via-antonio-pasinetti;20141;via antonio pasinetti;RIPAMONTI;2588;7
+via-balbo;20136;via balbo;RIPAMONTI;0;0
+viale-toscana;20100;viale toscana;RIPAMONTI;0;0
+pietrasanta;20141;pietrasanta;RIPAMONTI;0;0
+via-pietrasanta;20141;via pietrasanta;RIPAMONTI;2750;9.25
+via-antonini;20141;via antonini;RIPAMONTI;0;0
+viale-monza;20128;viale monza;VIALE MONZA;2450;7.75
+via-livraghi;20126;via livraghi;VIALE MONZA;0;0
+via-lucio-giunio-columella;20128;via lucio giunio columella;VIALE MONZA;2450;7.75
+via-privata-galeno;20126;via privata galeno;VIALE MONZA;0;0
+via-cislaghi;20128;via cislaghi;VIALE MONZA;0;0
+via-erodoto;20126;via erodoto;VIALE MONZA;0;0
+via-pompeo-mariani;20128;via pompeo mariani;VIALE MONZA;0;0
+via-ernesto-breda;20126;via ernesto breda;VIALE MONZA;2450;7.75
+piazza-indro-montanelli;20099;piazza indro montanelli;VIALE MONZA;0;0
+via-fratelli-bressan;20126;via fratelli bressan;VIALE MONZA;0;0
+via-rucellai;20126;via rucellai;VIALE MONZA;0;0
+via-bernardo-rucellai;20126;via bernardo rucellai;VIALE MONZA;0;0
+via-pericle;20126;via pericle;VIALE MONZA;0;0
+viale-marelli;20099;viale marelli;VIALE MONZA;0;0
+piazza-luigi-di-savoia;20125;piazza luigi di savoia;CENTRALE;0;0
+via-ferrante-aporti;20127;via ferrante aporti;CENTRALE;0;0
+stazione-milano-centrale;20158;stazione milano centrale;CENTRALE;0;0
+viale-andrea-doria;20124;viale andrea doria;CENTRALE;0;0
+via-tonale;20125;via tonale;CENTRALE;3388;9.13
+via-copernico;20125;via copernico;CENTRALE;0;0
+stazione-centrale;20125;stazione centrale;CENTRALE;0;0
+via-luigi-galvani;20124;via luigi galvani;CENTRALE;0;0
+via-mauro-macchi;20124;via mauro macchi;CENTRALE;4282;12.82
+via-napo-torriani;20124;via napo torriani;CENTRALE;5175;16.5
+piazza-san-camillo-de-lellis;20124;piazza san camillo de lellis;CENTRALE;0;0
+via-melchiorre-gioia;20124;via melchiorre gioia;CENTRALE;6563;21.71
+via-gustavo-fara;20124;via gustavo fara;CENTRALE;0;0
+via-emanuele-muzio;20124;via emanuele muzio;CENTRALE;3388;9.13
+via-vittor-pisani;20124;via vittor pisani;CENTRALE;0;0
+piazza-quattro-novembre;20124;piazza quattro novembre;CENTRALE;0;0
+via-aminto-caretto;20124;via aminto caretto;CENTRALE;0;0
+piazza-città-di-lombardia;20124;piazza città di lombardia;CENTRALE;0;0
+via-gustavo-generale-fara;20124;via gustavo generale fara;CENTRALE;0;0
+via-lepetit;20127;via lepetit;CENTRALE;0;0
+via-settembrini;20124;via settembrini;CENTRALE;0;0
+via-bruschetti;20125;via bruschetti;CENTRALE;0;0
+via-palestrina;20124;via palestrina;CENTRALE;0;0
+via-benedetto-marcello;20124;via benedetto marcello;CENTRALE;0;0
+via-adda;20124;via adda;CENTRALE;0;0
+via-filzi;20100;via filzi;CENTRALE;0;0
+via-domenico-scarlatti;20124;via domenico scarlatti;CENTRALE;0;0
+viale-brianza;20127;viale brianza;CENTRALE;2625;8.25
+via-girolamo-cardano;20124;via girolamo cardano;CENTRALE;0;0
+via-alfredo-cappellini;20124;via alfredo cappellini;CENTRALE;5175;16.5
+via-gluck;20125;via gluck;CENTRALE;0;0
+via-fara;20124;via fara;CENTRALE;0;0
+via-fabio-filzi;20124;via fabio filzi;CENTRALE;0;0
+via-giovanni-schiaparelli;20125;via giovanni schiaparelli;CENTRALE;0;0
+via-settala;20124;via settala;CENTRALE;0;0
+via-nappo-torriani;20124;via nappo torriani;CENTRALE;0;0
+via-emilio-cornalia;20124;via emilio cornalia;CENTRALE;0;0
+via-pirelli;20124;via pirelli;CENTRALE;0;0
+via-sammartini;20125;via sammartini;CENTRALE;0;0
+via-generale-gustavo-fara;20124;via generale gustavo fara;CENTRALE;0;0
+via-boscovich;20124;via boscovich;CENTRALE;0;0
+via-cornalia;20124;via cornalia;CENTRALE;0;0
+via-popoli-uniti;20127;via popoli uniti;GRECO;0;0
+via-zuretti;20125;via zuretti;GRECO;0;0
+via-della-giustizia;20125;via della giustizia;GRECO;2625;8.25
+via-giulio-e-corrado-venini;20127;via giulio e corrado venini;GRECO;2625;8.25
+via-giovanni-battista-sammartini;20125;via giovanni battista sammartini;GRECO;0;0
+via-comune-antico;20125;via comune antico;GRECO;0;0
+via-cagliero;20125;via cagliero;GRECO;0;0
+via-delle-leghe;20127;via delle leghe;GRECO;2625;8.25
+via-varanini;20127;via varanini;GRECO;0;0
+via-nino-oxilia;20127;via nino oxilia;GRECO;0;0
+piazza-morbegno;20125;piazza morbegno;GRECO;0;0
+via-emilio-de-marchi;20125;via emilio de marchi;GRECO;0;0
+via-oxilia;20127;via oxilia;GRECO;0;0
+via-venini;20127;via venini;GRECO;0;0
+via-tirano;20125;via tirano;GRECO;0;0
+via-luciano-zuccoli;20125;via luciano zuccoli;GRECO;0;0
+via-san-rafael-delle-ande;20125;via san rafael delle ande;GRECO;0;0
+via-gianfranco-zuretti;20125;via gianfranco zuretti;GRECO;2625;8.25
+via-antonio-stradivari;20131;via antonio stradivari;LORETO;0;0
+via-paganini;20132;via paganini;LORETO;0;0
+via-pierluigi-da-palestrina;20124;via pierluigi da palestrina;LORETO;0;0
+via-porpora;20131;via porpora;LORETO;0;0
+via-temperanza;20127;via temperanza;LORETO;0;0
+via-annibale-caretta;20131;via annibale caretta;LORETO;0;0
+piazza-argentina;20131;piazza argentina;LORETO;5175;16.5
+via-pergolesi;20124;via pergolesi;LORETO;0;0
+viale-lombardia;20131;viale lombardia;LORETO;0;0
+via-giovanni-ricordi;20131;via giovanni ricordi;LORETO;0;0
+via-natale-battaglia;20127;via natale battaglia;LORETO;2625;8.25
+via-pietro-marocco;20127;via pietro marocco;LORETO;2625;8.25
+via-andrea-costa;20131;via andrea costa;LORETO;2894;9.25
+via-giovan-battista-pergolesi;20124;via giovan battista pergolesi;LORETO;0;0
+piazza-aspromonte--;20131;piazza aspromonte -;LORETO;0;0
+via-niccolò-paganini;20131;via niccolò paganini;LORETO;0;0
+via-soperga;20127;via soperga;LORETO;2625;8.25
+via-alessandro-pestalozza;20131;via alessandro pestalozza;LORETO;0;0
+via-tucidide;20134;via tucidide;PARCO FORLANINI - ORTICA;2369;16.55
+via-giovanni-antonio-amadeo;20133;via giovanni antonio amadeo;PARCO FORLANINI - ORTICA;3600;10.83
+via-ortica;20134;via ortica;PARCO FORLANINI - ORTICA;2177;10.35
+via-ajaccio;20133;via ajaccio;PARCO FORLANINI - ORTICA;0;0
+via-antonio-amadeo;20134;via antonio amadeo;PARCO FORLANINI - ORTICA;0;0
+via-ettore-paladini;20133;via ettore paladini;PARCO FORLANINI - ORTICA;0;0
+via-gualdo-priorato;20134;via gualdo priorato;PARCO FORLANINI - ORTICA;0;0
+via-arcangelo-corelli;20134;via arcangelo corelli;PARCO FORLANINI - ORTICA;0;0
+via-san-faustino;20134;via san faustino;PARCO FORLANINI - ORTICA;0;0
+via-alfonso-gatto;20135;via alfonso gatto;PARCO FORLANINI - ORTICA;0;0
+via-sismondi;20133;via sismondi;PARCO FORLANINI - ORTICA;0;0
+via-tajani;20100;via tajani;PARCO FORLANINI - ORTICA;0;0
+via-raffaele-rubattino;20134;via raffaele rubattino;PARCO FORLANINI - ORTICA;0;0
+viale-enrico-forlanini;20134;viale enrico forlanini;PARCO FORLANINI - ORTICA;0;0
+via-luigi-federico-menabrea;20159;via luigi federico menabrea;MACIACHINI - MAGGIOLINA;0;0
+via-valtellina;20159;via valtellina;MACIACHINI - MAGGIOLINA;0;0
+viale-jenner;20159;viale jenner;MACIACHINI - MAGGIOLINA;0;0
+via-sommacampagna;20158;via sommacampagna;MACIACHINI - MAGGIOLINA;0;0
+via-genova-giovanni-thaon-di-revel;20159;via genova giovanni thaon di revel;MACIACHINI - MAGGIOLINA;0;0
+via-boltraffio;20159;via boltraffio;MACIACHINI - MAGGIOLINA;0;0
+via-thaon-di-revel;20159;via thaon di revel;MACIACHINI - MAGGIOLINA;0;0
+via-lepontina;20159;via lepontina;MACIACHINI - MAGGIOLINA;3388;9.13
+via-resegone;20159;via resegone;MACIACHINI - MAGGIOLINA;0;0
+via-valassina;20159;via valassina;MACIACHINI - MAGGIOLINA;0;0
+via-dino-villani;20159;via dino villani;MACIACHINI - MAGGIOLINA;0;0
+viale-stelvio;20159;viale stelvio;MACIACHINI - MAGGIOLINA;3388;9.13
+via-thaon-de-revel;20159;via thaon de revel;MACIACHINI - MAGGIOLINA;0;0
+via-alserio;20159;via alserio;MACIACHINI - MAGGIOLINA;0;0
+piazzale-carlo-maciachini;20159;piazzale carlo maciachini;MACIACHINI - MAGGIOLINA;3007;8.69
+viale-marche;20159;viale marche;MACIACHINI - MAGGIOLINA;3007;8.69
+via-gian-antonio-boltraffio;20159;via gian antonio boltraffio;MACIACHINI - MAGGIOLINA;0;0
+via-murat;20159;via murat;MACIACHINI - MAGGIOLINA;0;0
+via-gioacchino-murat;20159;via gioacchino murat;MACIACHINI - MAGGIOLINA;2625;8.25
+via-vincenzo-lancetti;20158;via vincenzo lancetti;MACIACHINI - MAGGIOLINA;0;0
+via-lancetti;20158;via lancetti;MACIACHINI - MAGGIOLINA;0;0
+via-jacopo-dal-verme;20124;via jacopo dal verme;ISOLA;0;0
+via-sebenico;20124;via sebenico;ISOLA;0;0
+via-borsieri;20159;via borsieri;ISOLA;0;0
+piazza-tito-minniti;20159;piazza tito minniti;ISOLA;0;0
+via-luigi-porro-lambertenghi;20159;via luigi porro lambertenghi;ISOLA;0;0
+via-pietro-borsieri;20159;via pietro borsieri;ISOLA;0;0
+via-pollaiuolo;20159;via pollaiuolo;ISOLA;0;0
+piazzale-archinto;20159;piazzale archinto;ISOLA;0;0
+piazzale-segrino;20159;piazzale segrino;ISOLA;0;0
+via-antonio-pollaiuolo;20159;via antonio pollaiuolo;ISOLA;0;0
+piazzale-lagosta;20124;piazzale lagosta;ISOLA;0;0
+piazza-gae-aulenti;20159;piazza gae aulenti;ISOLA;0;0
+via-gaetano-de-castillia;20124;via gaetano de castillia;ISOLA;0;0
+piazza-minniti;20159;piazza minniti;ISOLA;0;0
+viale-luigi-sturzo;20154;viale luigi sturzo;ISOLA;5175;16.5
+via-garigliano;20159;via garigliano;ISOLA;0;0
+via-spalato;20124;via spalato;ISOLA;0;0
+via-delle-abbadesse;20124;via delle abbadesse;ISOLA;0;0
+via-sassetti;20124;via sassetti;ISOLA;0;0
+via-arnaldo-da-brescia;20159;via arnaldo da brescia;ISOLA;0;0
+via-abbadesse;20124;via abbadesse;ISOLA;3388;9.13
+via-vincenzo-civerchio;20159;via vincenzo civerchio;ISOLA;0;0
+via-alessio-di-tocqueville;20154;via alessio di tocqueville;ISOLA;0;0
+via-tocqueville;20124;via tocqueville;ISOLA;0;0
+via-paolo-lomazzo;20154;via paolo lomazzo;SARPI;0;0
+via-giulio-cesare-procaccini;20154;via giulio cesare procaccini;SARPI;0;0
+via-aleardi;20154;via aleardi;SARPI;0;0
+via-piero-della-francesca;20154;via piero della francesca;SARPI;3638;10
+via-londonio;20154;via londonio;SARPI;0;0
+via-moscati;20154;via moscati;SARPI;0;0
+piazza-gramsci;20145;piazza gramsci;SARPI;0;0
+via-sarpi;20154;via sarpi;SARPI;0;0
+via-canonica;20154;via canonica;SARPI;0;0
+via-castelvetro;20154;via castelvetro;SARPI;0;0
+via-privata-alfredo-albertini;20154;via privata alfredo albertini;SARPI;0;0
+via-cenisio;20154;via cenisio;SARPI;4513;13.51
+via-losanna;20154;via losanna;SARPI;0;0
+via-mussi;20154;via mussi;SARPI;0;0
+via-angelo-poliziano;20154;via angelo poliziano;SARPI;0;0
+via-giovanni-battista-fauchè;20154;via giovanni battista fauchè;SARPI;0;0
+via-lodovico-castelvetro;20154;via lodovico castelvetro;SARPI;0;0
+via-fauché;20154;via fauché;SARPI;0;0
+via-francesco-ferrucci;20145;via francesco ferrucci;SARPI;0;0
+via-bramante;20154;via bramante;SARPI;0;0
+viale-berengario;20149;viale berengario;DE ANGELI - MONTE ROSA;7432;23.88
+via-gaetano-previati;20149;via gaetano previati;DE ANGELI - MONTE ROSA;5388;17
+viale-monterosa;20149;viale monterosa;DE ANGELI - MONTE ROSA;0;0
+piazzale-giulio-cesare;20149;piazzale giulio cesare;DE ANGELI - MONTE ROSA;0;0
+via-giuseppe-pellizza-da-volpedo;20149;via giuseppe pellizza da volpedo;DE ANGELI - MONTE ROSA;5388;17
+via-monte-rosa;20149;via monte rosa;DE ANGELI - MONTE ROSA;0;0
+via-correggio;20149;via correggio;DE ANGELI - MONTE ROSA;5388;17
+via-mosè-bianchi;20148;via mosè bianchi;DE ANGELI - MONTE ROSA;0;0
+piazza-giovanni-amendola;20149;piazza giovanni amendola;DE ANGELI - MONTE ROSA;0;0
+via-spagnoletto;20149;via spagnoletto;DE ANGELI - MONTE ROSA;5388;17
+piazzale-brescia;20149;piazzale brescia;DE ANGELI - MONTE ROSA;2700;9.5
+via-domenichino;20149;via domenichino;DE ANGELI - MONTE ROSA;0;0
+via-cola-di-rienzo;20144;via cola di rienzo;WASHINGTON;3975;10.75
+via-coluccio-salutati;20144;via coluccio salutati;WASHINGTON;5388;17
+via-roncaglia;20146;via roncaglia;WASHINGTON;4044;13.26
+via-vincenzo-foppa;20144;via vincenzo foppa;WASHINGTON;0;0
+via-giacomo-boni;20144;via giacomo boni;WASHINGTON;0;0
+via-tagiura;20146;via tagiura;WASHINGTON;0;0
+via-dezza;20144;via dezza;WASHINGTON;0;0
+via-sirte;20146;via sirte;WASHINGTON;0;0
+piazzale-siena;20146;piazzale siena;BANDE NERE;0;0
+viale-caterina-da-forlì;20146;viale caterina da forlì;BANDE NERE;0;0
+via-montecuccoli;20147;via montecuccoli;BANDE NERE;2700;9.5
+piazza-bande-nere;20147;piazza bande nere;BANDE NERE;0;0
+via-privata-raimondo-montecuccoli;20147;via privata raimondo montecuccoli;BANDE NERE;0;0
+via-moroni;20146;via moroni;BANDE NERE;0;0
+via-novara;20148;via novara;BANDE NERE;2700;9.5
+via-trivulzio;20146;via trivulzio;BANDE NERE;0;0
+via-rubens;20148;via rubens;BANDE NERE;4044;13.26
+via-millelire;20157;via millelire;BANDE NERE;0;0
+via-orsini;20146;via orsini;BANDE NERE;0;0
+via-desenzano;20146;via desenzano;BANDE NERE;0;0
+via-sofonisba-anguissola;20146;via sofonisba anguissola;BANDE NERE;2700;9.5
+via-pietro-paolo-rubens;20148;via pietro paolo rubens;BANDE NERE;0;0
+via-dei-ciclamini;20147;via dei ciclamini;BANDE NERE;2300;8.25
+viale-san-gimignano;20146;viale san gimignano;BANDE NERE;2700;9.5
+via-primaticcio;20147;via primaticcio;BANDE NERE;0;0
+via-soderini;20146;via soderini;BANDE NERE;0;0
+via-pisanello;20146;via pisanello;BANDE NERE;0;0
+viale-pisa;20146;viale pisa;BANDE NERE;0;0
+via-pasquale-fornari;20146;via pasquale fornari;BANDE NERE;0;0
+viale-legioni-romane;20147;viale legioni romane;BANDE NERE;2500;8.88
+via-jacopo-palma;20146;via jacopo palma;BANDE NERE;2700;9.5
+viale-aretusa;20147;viale aretusa;BANDE NERE;0;0
+via-arzaga;20146;via arzaga;BANDE NERE;2700;9.5
+via-giuseppe-gabetti;20147;via giuseppe gabetti;FORZE ARMATE;2300;8.25
+via-alessandro-fleming;20147;via alessandro fleming;FORZE ARMATE;0;0
+piazza-amati;20147;piazza amati;FORZE ARMATE;0;0
+piazza-gambara;20145;piazza gambara;FORZE ARMATE;0;0
+via-marostica;20146;via marostica;FORZE ARMATE;0;0
+via-cascina-bellaria;20153;via cascina bellaria;PARCO BOSCO IN CITTA';2225;7.25
+via-caldera;20153;via caldera;PARCO BOSCO IN CITTA';0;0
+via-curtatone;20122;via curtatone;PORTA ROMANA;0;0
+via-della-braida;20122;via della braida;PORTA ROMANA;0;0
+via-pier-lombardo;20135;via pier lombardo;PORTA ROMANA;0;0
+via-monte-nero;20135;via monte nero;PORTA ROMANA;0;0
+via-carlo-botta;20121;via carlo botta;PORTA ROMANA;0;0
+viale-emilio-caldara;20122;viale emilio caldara;PORTA ROMANA;7167;21.34
+via-enrico-besana;20122;via enrico besana;PORTA ROMANA;0;0
+via-bergamo;20135;via bergamo;PORTA ROMANA;0;0
+via-antonio-fogazzaro;20135;via antonio fogazzaro;PORTA ROMANA;0;0
+piazza-santeustorgio;20122;piazza santeustorgio;TICINESE;0;0
+viale-gian-galeazzo;20136;viale gian galeazzo;TICINESE;5375;16.75
+piazzale--maggio;20123;piazzale  maggio;TICINESE;0;0
+piazza-ventiquattro-maggio;20123;piazza ventiquattro maggio;TICINESE;0;0
+parco-delle-basiliche;20123;parco delle basiliche;TICINESE;0;0
+corso-di-porta-ticinese;20123;corso di porta ticinese;TICINESE;0;0
+piazza-xxiv-maggio;20123;piazza xxiv maggio;TICINESE;0;0
+via-crema;20135;via crema;TICINESE;0;0
+via-molino-delle-armi;20123;via molino delle armi;TICINESE;0;0
+viale-col-di-lana;20136;viale col di lana;TICINESE;0;0
+via-col-di-lana;20136;via col di lana;TICINESE;0;0
+via-pietro-custodi;20136;via pietro custodi;TICINESE;4650;14.75
+via-giovenale;20136;via giovenale;TICINESE;3875;10.75
+via-custodi;20136;via custodi;TICINESE;0;0
+via-vettabbia;20122;via vettabbia;TICINESE;5425;18.75
+via-pio-iv;20123;via pio iv;TICINESE;7200;21
+piazzale-le-di-porta-lodovica;20136;piazzale le di porta lodovica;TICINESE;0;0
+piazza-tito-lucrezio-caro;20136;piazza tito lucrezio caro;TICINESE;3875;10.75
+conca-del-naviglio;20123;conca del naviglio;TICINESE;0;0
+via-edmondo-de-amicis;20123;via edmondo de amicis;TICINESE;0;0
+via-disciplini;20123;via disciplini;TICINESE;7200;21
+via-conca-del-naviglio;20123;via conca del naviglio;TICINESE;5325;14.75
+via-röntgen;20136;via röntgen;TICINESE;0;0
+viale-bligny;20136;viale bligny;TICINESE;0;0
+via-stampa;20123;via stampa;TICINESE;7550;22.17
+via-gentilino;20134;via gentilino;TICINESE;0;0
+via-gian-battista-torti;20123;via gian battista torti;TICINESE;0;0
+via-giuseppe-mercalli;20122;via giuseppe mercalli;TICINESE;0;0
+via-gian-giacomo-mora;20123;via gian giacomo mora;TICINESE;0;0
+via-del-mare;20142;via del mare;CANTALUPA;3684;7.5
+via-cascina-bianca;20142;via cascina bianca;CANTALUPA;1843;7
+via-bardolino;20142;via bardolino;PARCO DEI NAVIGLI;1600;18.69
+buccinasco-lombardia;20090;buccinasco lombardia;PARCO DEI NAVIGLI;4357;15.8
+via-indipendenza;20090;via indipendenza;PARCO DEI NAVIGLI;2600;13.75
+viale-cassiodoro;20145;viale cassiodoro;PAGANO;5388;17
+via-rasori;20145;via rasori;PAGANO;0;0
+largo-zandonai;20145;largo zandonai;PAGANO;0;0
+via-alberto-da-giussano;20145;via alberto da giussano;PAGANO;0;0
+via-ludovico-ariosto;20123;via ludovico ariosto;PAGANO;0;0
+viale-belisario;20145;viale belisario;PAGANO;5388;17
+via-mario-pagano;20145;via mario pagano;PAGANO;;
+piazza-della-repubblica;20124;piazza della repubblica;GARIBALDI REPUBBLICA;5175;16.5
+via-marco-polo;20124;via marco polo;GARIBALDI REPUBBLICA;0;0
+via-parini;20121;via parini;GARIBALDI REPUBBLICA;0;0
+viale-monte-grappa;20124;viale monte grappa;GARIBALDI REPUBBLICA;0;0
+viale-della-liberazione;20124;viale della liberazione;GARIBALDI REPUBBLICA;0;0
+piazza-repubblica;20121;piazza repubblica;GARIBALDI REPUBBLICA;0;0
+via-amerigo-vespucci;20124;via amerigo vespucci;GARIBALDI REPUBBLICA;0;0
+via-vespucci;20124;via vespucci;GARIBALDI REPUBBLICA;0;0
+via-filippo-turati;20121;via filippo turati;GARIBALDI REPUBBLICA;0;0
+via-turati;20121;via turati;GARIBALDI REPUBBLICA;0;0
+gustavo-fara;20124;gustavo fara;GARIBALDI REPUBBLICA;0;0
+piazza-san-gioachimo;20124;piazza san gioachimo;GARIBALDI REPUBBLICA;0;0
+via-ugo-tarchetti;20121;via ugo tarchetti;GARIBALDI REPUBBLICA;0;0
+via-moscova;20121;via moscova;GARIBALDI REPUBBLICA;0;0
+via-viganó;20124;via viganó;GARIBALDI REPUBBLICA;0;0
+via-della-moscova;20121;via della moscova;GARIBALDI REPUBBLICA;0;0
+via-renzo-bertoni;20121;via renzo bertoni;GARIBALDI REPUBBLICA;0;0
+nd;-;-;MAGENTA - S. VITTORE;5325;14.75
+nd;-;-;VIGENTINA;2446;7.75
+nd;-;-;PARCO NORD;1955;12.34
+nd;-;20152;MUGGIANO;1771;10.65
+nd;-;20141;QUINTOSOLE;2443;16
+nd;-;20136;RONCHETTO DELLE RANE;1902;15.75
+

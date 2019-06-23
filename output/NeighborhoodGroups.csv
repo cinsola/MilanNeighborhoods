@@ -1,0 +1,87 @@
+,Neighborhood,Is Culture bin,Is Food bin,Is Helth and Care bin,Is Restaurant bin,Is Shopping bin,Is Spare time bin,Is Sport bin,Is Nightlife bin,Sell Price,Buildings Sites,Culture Cluster,Shopping Cluster,Restaurant Cluster,Sport Cluster,Spare time Cluster
+0,ADRIANO,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Other,Supermarket,Turkish cuisine,Sport based shops,Hotels and wine bar
+1,AFFORI,Low,Low,Low,Low,Low,Medium,Low,Low,Very low,Medium,Other,Supermarket and Hardware shop,Asian cuisine,Fields and pools prevalence,Hotels and wine bar
+2,BAGGIO,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Other,Supermarket and Hardware shop,Turkish cuisine,Other,General entertainment
+3,BANDE NERE,Low,Medium,Low,Medium,Low,Medium,Medium,Low,Very low,Low,Prevalence of Art gallery,Supermarket and Hardware shop,Asian cuisine,Sport based shops,Hotels and wine bar
+4,BARONA,Low,Low,Low,Low,Low,Low,Medium,Low,Very low,Low,Theater and cinemas,Other,Asian cuisine,Fields and pools prevalence,General entertainment
+5,BICOCCA,Low,Medium,Low,Low,Low,Low,Medium,Low,Very low,Medium,Prevalence of Art gallery,Supermarket,American cuisine and burgers,Gyms prevalence,Hotels and wine bar
+6,BOVISA,Low,Medium,Low,Low,Low,Low,Low,Low,Very low,Low,Museum prevalence,Supermarket,Turkish cuisine,Sport based shops,Hotels and wine bar
+7,BOVISASCA,Low,Low,High,Low,High,Low,Low,Low,Very low,Low,Prevalence of Art gallery,Supermarket,Turkish cuisine,Fields and pools prevalence,General entertainment
+8,BRERA,High,Medium,High,Medium,Medium,High,Low,Medium,High,Medium,Museum prevalence,Supermarket,Asian cuisine,Other,Hotels and wine bar
+9,BRUZZANO,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Other,Museum prevalence,Turkish cuisine,Gyms prevalence,Other
+10,BUENOS AIRES - VENEZIA,Low,High,Low,High,Low,Medium,Low,Low,Low,High,Museum prevalence,Supermarket,Asian cuisine,Gyms prevalence,Hotels and wine bar
+11,CANTALUPA,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Other,Other,Turkish cuisine,Other,Hotels and wine bar
+12,CASCINA TRIULZA - EXPO,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Theater and cinemas,Other,American cuisine and burgers,Other,Hotels and wine bar
+13,CENTRALE,Low,High,Low,Medium,Low,High,Low,Low,Low,High,Museum prevalence,Supermarket,Asian cuisine,Gyms prevalence,Hotels and wine bar
+14,CHIARAVALLE,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Other,Supermarket,Turkish cuisine,Other,General entertainment
+15,CITTA' STUDI,Low,High,Low,Medium,Low,Medium,Medium,Low,Low,Medium,Theater and cinemas,Supermarket and Hardware shop,Asian cuisine,Gyms prevalence,Hotels and wine bar
+16,COMASINA,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Other,Supermarket and Hardware shop,American cuisine and burgers,Other,General entertainment
+17,CORSICA,Low,Medium,Low,Low,Low,Medium,Medium,Low,Very low,Medium,Prevalence of Art gallery,Museum prevalence,Asian cuisine,Gyms prevalence,Hotels and wine bar
+18,DE ANGELI - MONTE ROSA,Low,Low,Low,Low,Low,Medium,Low,Low,Low,Low,Other,Supermarket and Hardware shop,Asian cuisine,Fields and pools prevalence,Hotels and wine bar
+19,DERGANO,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Prevalence of Art gallery,Supermarket,Asian cuisine,Fields and pools prevalence,Hotels and wine bar
+20,DUOMO,Medium,Medium,High,Low,High,High,Medium,Low,Very high,Medium,Museum prevalence,Supermarket,Asian cuisine,Sport based shops,Hotels and wine bar
+21,EX OM - MORIVIONE,Low,Low,Low,Low,Low,Low,Medium,Low,Very low,Low,Theater and cinemas,Supermarket and Hardware shop,Turkish cuisine,Fields and pools prevalence,Wine bar and nighlife
+22,FARINI,Medium,Low,Low,Medium,Low,Medium,Low,Low,Low,Medium,Museum prevalence,Supermarket,Asian cuisine,Gyms prevalence,Hotels and wine bar
+23,FIGINO,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Prevalence of Street Art and intersting landmarks,Other,Other,Fields and pools prevalence,General entertainment
+24,FORZE ARMATE,Low,Medium,Low,Medium,Low,Medium,Medium,Low,Very low,Low,Museum prevalence,Supermarket and Hardware shop,Asian cuisine,Sport based shops,Hotels and wine bar
+25,GALLARATESE,Low,Low,Low,Low,Low,Low,Medium,Low,Very low,Low,Museum prevalence,Supermarket and Hardware shop,American cuisine and burgers,Fields and pools prevalence,Hotels and wine bar
+26,GARIBALDI REPUBBLICA,Low,Medium,Low,Medium,Low,Medium,Low,Low,Low,Medium,Museum prevalence,Supermarket and Hardware shop,Asian cuisine,Gyms prevalence,Hotels and wine bar
+27,GHISOLFA,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Medium,Other,Supermarket and Hardware shop,Asian cuisine,Gyms prevalence,Hotels and wine bar
+28,GIAMBELLINO,Low,Medium,Low,Low,Low,Medium,Low,Low,Very low,Low,Theater and cinemas,Supermarket and Hardware shop,Asian cuisine,Gyms prevalence,General entertainment
+29,GIARDINI PORTA VENEZIA,Low,Low,Medium,Low,Low,Medium,Low,High,Low,Medium,Prevalence of Art gallery,Museum prevalence,Asian cuisine,Fields and pools prevalence,Wine bar and nighlife
+30,GRATOSOGLIO - TICINELLO,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Theater and cinemas,Supermarket and Hardware shop,Turkish cuisine,Fields and pools prevalence,General entertainment
+31,GRECO,Low,Medium,Low,Medium,Low,Medium,Low,Low,Very low,Medium,Museum prevalence,Supermarket and Hardware shop,Asian cuisine,Sport based shops,Hotels and wine bar
+32,GUASTALLA,Medium,Medium,High,Medium,High,High,High,Low,Very high,Low,Museum prevalence,Supermarket,Asian cuisine,Sport based shops,Hotels and wine bar
+33,ISOLA,Medium,High,Low,Medium,Low,Medium,Low,Low,Low,High,Museum prevalence,Supermarket,Asian cuisine,Sport based shops,Wine bar and nighlife
+34,LAMBRATE,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Theater and cinemas,Supermarket,Asian cuisine,Fields and pools prevalence,Hotels and wine bar
+35,LODI - CORVETTO,Medium,Medium,Low,Medium,Medium,Medium,High,Medium,Very low,Medium,Theater and cinemas,Supermarket and Hardware shop,Asian cuisine,Fields and pools prevalence,Hotels and wine bar
+36,LORENTEGGIO,Low,Medium,Low,Low,Low,Low,Medium,Low,Very low,Low,Other,Supermarket and Hardware shop,Asian cuisine,Fields and pools prevalence,General entertainment
+37,LORETO,Low,High,Medium,High,Low,Medium,Low,Medium,Very low,High,Museum prevalence,Supermarket,Asian cuisine,Gyms prevalence,Hotels and wine bar
+38,MACIACHINI - MAGGIOLINA,Low,Low,Medium,Medium,Low,Low,Medium,Medium,Very low,High,Museum prevalence,Supermarket and Hardware shop,Asian cuisine,Gyms prevalence,Hotels and wine bar
+39,MAGENTA - S. VITTORE,Medium,High,Medium,Medium,Low,Medium,Low,Low,Medium,Medium,Museum prevalence,Supermarket,Asian cuisine,Gyms prevalence,Hotels and wine bar
+40,MAGGIORE - MUSOCCO,Low,Low,Low,Low,Low,Low,Medium,Low,Very low,Low,Theater and cinemas,Supermarket and Hardware shop,American cuisine and burgers,Sport based shops,Hotels and wine bar
+41,MECENATE,Low,Low,Medium,Low,Low,Medium,Low,Low,Very low,Low,Prevalence of Street Art and intersting landmarks,Other,Asian cuisine,Gyms prevalence,Hotels and wine bar
+42,NAVIGLI,Medium,Medium,Low,Medium,Low,High,Low,Low,Low,Medium,Prevalence of Art gallery,Supermarket,Asian cuisine,Other,Wine bar and nighlife
+43,NIGUARDA - CA' GRANDA,Low,Low,Low,Low,Low,Medium,High,Low,Very low,Low,Prevalence of Art gallery,Supermarket and Hardware shop,Asian cuisine,Fields and pools prevalence,Hotels and wine bar
+44,ORTOMERCATO,High,High,Low,Low,Medium,High,Low,Low,Very high,Medium,Museum prevalence,Supermarket,Turkish cuisine,Sport based shops,Hotels and wine bar
+45,PADOVA,Low,Low,Low,Low,Low,Low,Medium,Medium,Very low,Medium,Other,Supermarket and Hardware shop,Turkish cuisine,Sport based shops,Wine bar and nighlife
+46,PAGANO,Low,Low,Low,Low,Low,Medium,Low,Low,Medium,Low,Museum prevalence,Supermarket,Asian cuisine,Gyms prevalence,Hotels and wine bar
+47,PARCO AGRICOLO SUD,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Prevalence of Street Art and intersting landmarks,Supermarket and Hardware shop,Turkish cuisine,Fields and pools prevalence,Hotels and wine bar
+48,PARCO BOSCO IN CITTA',Low,Low,Low,Low,Low,Low,Medium,Low,Very low,Low,Other,Other,Turkish cuisine,Fields and pools prevalence,General entertainment
+49,PARCO DEI NAVIGLI,Low,Low,Low,Low,Low,Low,Medium,Low,Very low,Low,Prevalence of Street Art and intersting landmarks,Other,Turkish cuisine,Gyms prevalence,Other
+50,PARCO DELLE ABBAZIE,Low,Low,Low,Low,Low,Low,Medium,Low,Very low,Low,Prevalence of Street Art and intersting landmarks,Supermarket and Hardware shop,Asian cuisine,Fields and pools prevalence,Hotels and wine bar
+51,PARCO FORLANINI - ORTICA,Low,Medium,Low,Low,Low,Medium,Low,High,Very low,Low,Museum prevalence,Supermarket and Hardware shop,Turkish cuisine,Gyms prevalence,Wine bar and nighlife
+52,PARCO LAMBRO - CIMIANO,Low,Low,Low,Low,Low,Low,High,Low,Very low,Low,Prevalence of Art gallery,Supermarket and Hardware shop,Turkish cuisine,Fields and pools prevalence,Hotels and wine bar
+53,PARCO MONLUE' - PONTE LAMBRO,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Prevalence of Street Art and intersting landmarks,Other,Turkish cuisine,Gyms prevalence,Hotels and wine bar
+54,PARCO NORD,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Other,Museum prevalence,Turkish cuisine,Fields and pools prevalence,General entertainment
+55,PARCO SEMPIONE,Low,Low,Low,Low,Low,Medium,Low,Medium,Low,Medium,Museum prevalence,Other,Asian cuisine,Gyms prevalence,Wine bar and nighlife
+56,PORTA ROMANA,Medium,Low,Low,Medium,Low,Low,Medium,Low,High,High,Museum prevalence,Supermarket,American cuisine and burgers,Gyms prevalence,Wine bar and nighlife
+57,PORTELLO,Low,Medium,Low,Low,Low,Low,Low,Low,Low,Low,Theater and cinemas,Supermarket and Hardware shop,American cuisine and burgers,Fields and pools prevalence,Hotels and wine bar
+58,QT 8,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Other,Other,Turkish cuisine,Fields and pools prevalence,General entertainment
+59,QUARTO CAGNINO,Low,Low,Low,Low,Low,Low,Medium,Low,Very low,Low,Theater and cinemas,Other,Turkish cuisine,Gyms prevalence,Other
+60,QUARTO OGGIARO,Low,Low,High,Low,High,Low,Low,Low,Very low,Low,Museum prevalence,Supermarket,Asian cuisine,Fields and pools prevalence,General entertainment
+61,QUINTO ROMANO,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Other,Other,Other,Fields and pools prevalence,Hotels and wine bar
+62,QUINTOSOLE,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Other,Supermarket,Other,Other,Other
+63,RIPAMONTI,Low,Low,Low,Low,Low,Low,Medium,Medium,Very low,Low,Prevalence of Art gallery,Supermarket and Hardware shop,Asian cuisine,Gyms prevalence,Wine bar and nighlife
+64,ROGOREDO,Low,Low,Medium,Low,Low,Low,Low,Low,Very low,Low,Other,Supermarket,Asian cuisine,Fields and pools prevalence,General entertainment
+65,RONCHETTO SUL NAVIGLIO,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Other,Supermarket and Hardware shop,Asian cuisine,Fields and pools prevalence,General entertainment
+66,S. CRISTOFORO,Medium,Medium,Low,Medium,Low,Medium,Medium,High,Low,Low,Prevalence of Art gallery,Supermarket,Asian cuisine,Gyms prevalence,Wine bar and nighlife
+67,S. SIRO,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Other,Supermarket,Asian cuisine,Fields and pools prevalence,General entertainment
+68,SACCO,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Theater and cinemas,Supermarket and Hardware shop,Asian cuisine,Sport based shops,Hotels and wine bar
+69,SARPI,Low,Medium,Low,High,Low,Low,Low,Low,Low,Medium,Museum prevalence,Supermarket and Hardware shop,Asian cuisine,Gyms prevalence,Wine bar and nighlife
+70,SCALO ROMANA,Low,Low,Low,Low,Low,Medium,Medium,Low,Very low,Low,Prevalence of Art gallery,Supermarket and Hardware shop,Turkish cuisine,Gyms prevalence,Hotels and wine bar
+71,SELINUNTE,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Theater and cinemas,Supermarket and Hardware shop,Asian cuisine,Other,Hotels and wine bar
+72,STADERA,Low,Low,Low,Low,Low,Medium,Medium,Low,Very low,Low,Theater and cinemas,Supermarket and Hardware shop,Asian cuisine,Fields and pools prevalence,Hotels and wine bar
+73,STEPHENSON,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Other,Other,Other,Other,Hotels and wine bar
+74,TIBALDI,Low,Medium,Low,Low,Low,Low,Low,Medium,Very low,Medium,Prevalence of Art gallery,Supermarket and Hardware shop,Asian cuisine,Other,Wine bar and nighlife
+75,TICINESE,Medium,Medium,Low,Medium,Low,High,Medium,Medium,Medium,Medium,Museum prevalence,Supermarket,Asian cuisine,Sport based shops,Wine bar and nighlife
+76,TORTONA,Medium,Medium,Low,Medium,Low,High,Low,Medium,Low,Low,Prevalence of Art gallery,Supermarket,Asian cuisine,Other,Wine bar and nighlife
+77,TRE TORRI,Low,Low,Low,Low,Low,Low,Low,Low,High,Low,Theater and cinemas,Supermarket and Hardware shop,American cuisine and burgers,Other,Hotels and wine bar
+78,TRENNO,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Museum prevalence,Other,Turkish cuisine,Fields and pools prevalence,General entertainment
+79,TRIULZO SUPERIORE,Low,Low,Low,Low,Low,Low,Medium,Low,Very low,Low,Other,Supermarket,American cuisine and burgers,Gyms prevalence,General entertainment
+80,UMBRIA - MOLISE,Low,Low,Low,Medium,Low,Low,Low,Low,Very low,Medium,Prevalence of Art gallery,Supermarket,Asian cuisine,Gyms prevalence,General entertainment
+81,VIALE MONZA,Medium,Medium,Low,Low,Low,Low,Low,Low,Very low,Medium,Theater and cinemas,Supermarket,Turkish cuisine,Gyms prevalence,Hotels and wine bar
+82,VIGENTINA,Low,Low,Low,Low,Low,Low,Low,Low,Very low,Low,Prevalence of Art gallery,Supermarket and Hardware shop,Turkish cuisine,Gyms prevalence,Wine bar and nighlife
+83,VILLAPIZZONE,Low,Medium,Medium,Medium,Medium,Medium,High,Low,Very low,Medium,Prevalence of Art gallery,Supermarket,Asian cuisine,Fields and pools prevalence,Hotels and wine bar
+84,WASHINGTON,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Other,Supermarket,Asian cuisine,Fields and pools prevalence,Hotels and wine bar
+85,XXII MARZO,Low,High,Low,High,Low,Medium,Low,Medium,Medium,High,Museum prevalence,Supermarket and Hardware shop,Asian cuisine,Sport based shops,Hotels and wine bar
